@@ -10,7 +10,7 @@ oldtest:
 
 .PHONY: test
 test: build
-	rm -rf examples/*/*
+	#rm -rf examples/*/*
 	mocha test \
 		--require should \
 		--compilers coffee:coffee-script/register

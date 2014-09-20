@@ -35,6 +35,9 @@ if program.index
     index = groupby.enumerate data, facets
     console.log serialize index
 
+if typeof program.catch is 'string'
+    program.catch = fs.path.resolve program.catch
+
 options = 
     lowercase: yes
     catch: program.catch
@@ -42,7 +45,23 @@ options =
 
 groups = groupby.group data, destinationPattern, options
 
+sourceChanged = (fs.statSync source).mtime.getTime()
+isStale = (path) ->
+    try
+        destinationChanged = (fs.statSync path).mtime.getTime()
+        sourceChanged > destinationChanged
+    catch
+        yes
+
 for path, members of groups
-    dir = fs.path.dirname path
-    fs.mkdirp.sync dir
-    fs.writeFileSync path, (serialize members), encoding: 'utf8'
+    if program.dryRun or program.verbose
+        console.log path
+    
+    unless program.dryRun
+        unless program.force or isStale path
+            continue
+        dir = fs.path.dirname path
+        fs.mkdirp.sync dir
+        fs.writeFileSync path, (serialize members), encoding: 'utf8'
+
+        
