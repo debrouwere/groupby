@@ -63,5 +63,3 @@ for path, members of groups
         dir = fs.path.dirname path
         fs.mkdirp.sync dir
         fs.writeFileSync path, (serialize members), encoding: 'utf8'
-
-        
