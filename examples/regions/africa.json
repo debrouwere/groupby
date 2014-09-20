@@ -1,0 +1,3438 @@
+[
+  {
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria",
+      "native": {
+        "common": "الجزائر",
+        "official": "الجمهورية الديمقراطية الشعبية الجزائرية"
+      }
+    },
+    "tld": [
+      ".dz",
+      "الجزائر."
+    ],
+    "cca2": "DZ",
+    "ccn3": "012",
+    "cca3": "DZA",
+    "currency": [
+      "DZD"
+    ],
+    "callingCode": [
+      "213"
+    ],
+    "capital": "Algiers",
+    "altSpellings": [
+      "DZ",
+      "Dzayer",
+      "Algérie"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "nativeLanguage": "ara",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "cym": "Algeria",
+      "deu": "Algerien",
+      "fra": "Algérie",
+      "hrv": "Alžir",
+      "ita": "Algeria",
+      "jpn": "アルジェリア",
+      "nld": "Algerije",
+      "rus": "Алжир",
+      "spa": "Argelia"
+    },
+    "latlng": [
+      28,
+      3
+    ],
+    "demonym": "Algerian",
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "area": 2381741
+  },
+  {
+    "name": {
+      "common": "Angola",
+      "official": "Republic of Angola",
+      "native": {
+        "common": "Angola",
+        "official": "República de Angola"
+      }
+    },
+    "tld": [
+      ".ao"
+    ],
+    "cca2": "AO",
+    "ccn3": "024",
+    "cca3": "AGO",
+    "currency": [
+      "AOA"
+    ],
+    "callingCode": [
+      "244"
+    ],
+    "capital": "Luanda",
+    "altSpellings": [
+      "AO",
+      "República de Angola",
+      "ʁɛpublika de an'ɡɔla"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "por",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "cym": "Angola",
+      "deu": "Angola",
+      "fra": "Angola",
+      "hrv": "Angola",
+      "ita": "Angola",
+      "jpn": "アンゴラ",
+      "nld": "Angola",
+      "rus": "Ангола",
+      "spa": "Angola"
+    },
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "demonym": "Angolan",
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "area": 1246700
+  },
+  {
+    "name": {
+      "common": "Benin",
+      "official": "Republic of Benin",
+      "native": {
+        "common": "Bénin",
+        "official": "République du Bénin"
+      }
+    },
+    "tld": [
+      ".bj"
+    ],
+    "cca2": "BJ",
+    "ccn3": "204",
+    "cca3": "BEN",
+    "currency": [
+      "XOF"
+    ],
+    "callingCode": [
+      "229"
+    ],
+    "capital": "Porto-Novo",
+    "altSpellings": [
+      "BJ",
+      "Republic of Benin",
+      "République du Bénin"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "cym": "Benin",
+      "deu": "Benin",
+      "fra": "Bénin",
+      "hrv": "Benin",
+      "ita": "Benin",
+      "jpn": "ベナン",
+      "nld": "Benin",
+      "rus": "Бенин",
+      "spa": "Benín"
+    },
+    "latlng": [
+      9.5,
+      2.25
+    ],
+    "demonym": "Beninese",
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "area": 112622
+  },
+  {
+    "name": {
+      "common": "Botswana",
+      "official": "Republic of Botswana",
+      "native": {
+        "common": "Botswana",
+        "official": "Republic of Botswana"
+      }
+    },
+    "tld": [
+      ".bw"
+    ],
+    "cca2": "BW",
+    "ccn3": "072",
+    "cca3": "BWA",
+    "currency": [
+      "BWP"
+    ],
+    "callingCode": [
+      "267"
+    ],
+    "capital": "Gaborone",
+    "altSpellings": [
+      "BW",
+      "Republic of Botswana",
+      "Lefatshe la Botswana"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    },
+    "translations": {
+      "deu": "Botswana",
+      "fra": "Botswana",
+      "hrv": "Bocvana",
+      "ita": "Botswana",
+      "jpn": "ボツワナ",
+      "nld": "Botswana",
+      "rus": "Ботсвана",
+      "spa": "Botswana"
+    },
+    "latlng": [
+      -22,
+      24
+    ],
+    "demonym": "Motswana",
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 582000
+  },
+  {
+    "name": {
+      "common": "British Indian Ocean Territory",
+      "official": "British Indian Ocean Territory",
+      "native": {
+        "common": "British Indian Ocean Territory",
+        "official": "British Indian Ocean Territory"
+      }
+    },
+    "tld": [
+      ".io"
+    ],
+    "cca2": "IO",
+    "ccn3": "086",
+    "cca3": "IOT",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "246"
+    ],
+    "capital": "Diego Garcia",
+    "altSpellings": [
+      "IO"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Tiriogaeth Brydeinig Cefnfor India",
+      "deu": "Britisches Territorium im Indischen Ozean",
+      "fra": "Territoire britannique de l'océan Indien",
+      "hrv": "Britanski Indijskooceanski teritorij",
+      "ita": "Territorio britannico dell'oceano indiano",
+      "jpn": "イギリス領インド洋地域",
+      "nld": "Britse Gebieden in de Indische Oceaan",
+      "rus": "Британская территория в Индийском океане",
+      "spa": "Territorio Británico del Océano Índico"
+    },
+    "latlng": [
+      -6,
+      71.5
+    ],
+    "demonym": "Indian",
+    "borders": [],
+    "area": 60
+  },
+  {
+    "name": {
+      "common": "Burkina Faso",
+      "official": "Burkina Faso",
+      "native": {
+        "common": "Burkina Faso",
+        "official": "Burkina Faso"
+      }
+    },
+    "tld": [
+      ".bf"
+    ],
+    "cca2": "BF",
+    "ccn3": "854",
+    "cca3": "BFA",
+    "currency": [
+      "XOF"
+    ],
+    "callingCode": [
+      "226"
+    ],
+    "capital": "Ouagadougou",
+    "altSpellings": [
+      "BF"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "cym": "Burkina Faso",
+      "deu": "Burkina Faso",
+      "fra": "Burkina Faso",
+      "hrv": "Burkina Faso",
+      "ita": "Burkina Faso",
+      "jpn": "ブルキナファソ",
+      "nld": "Burkina Faso",
+      "rus": "Буркина-Фасо",
+      "spa": "Burkina Faso"
+    },
+    "latlng": [
+      13,
+      -2
+    ],
+    "demonym": "Burkinabe",
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "area": 272967
+  },
+  {
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi",
+      "native": {
+        "common": "Burundi",
+        "official": "République du Burundi"
+      }
+    },
+    "tld": [
+      ".bi"
+    ],
+    "cca2": "BI",
+    "ccn3": "108",
+    "cca3": "BDI",
+    "currency": [
+      "BIF"
+    ],
+    "callingCode": [
+      "257"
+    ],
+    "capital": "Bujumbura",
+    "altSpellings": [
+      "BI",
+      "Republic of Burundi",
+      "Republika y'Uburundi",
+      "République du Burundi"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "run",
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    },
+    "translations": {
+      "cym": "Bwrwndi",
+      "deu": "Burundi",
+      "fra": "Burundi",
+      "hrv": "Burundi",
+      "ita": "Burundi",
+      "jpn": "ブルンジ",
+      "nld": "Burundi",
+      "rus": "Бурунди",
+      "spa": "Burundi"
+    },
+    "latlng": [
+      -3.5,
+      30
+    ],
+    "demonym": "Burundian",
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "area": 27834
+  },
+  {
+    "name": {
+      "common": "Cameroon",
+      "official": "Republic of Cameroon",
+      "native": {
+        "common": "Cameroun",
+        "official": "République du Cameroun"
+      }
+    },
+    "tld": [
+      ".cm"
+    ],
+    "cca2": "CM",
+    "ccn3": "120",
+    "cca3": "CMR",
+    "currency": [
+      "XAF"
+    ],
+    "callingCode": [
+      "237"
+    ],
+    "capital": "Yaoundé",
+    "altSpellings": [
+      "CM",
+      "Republic of Cameroon",
+      "République du Cameroun"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "translations": {
+      "cym": "Camerŵn",
+      "deu": "Kamerun",
+      "fra": "Cameroun",
+      "hrv": "Kamerun",
+      "ita": "Camerun",
+      "jpn": "カメルーン",
+      "nld": "Kameroen",
+      "rus": "Камерун",
+      "spa": "Camerún"
+    },
+    "latlng": [
+      6,
+      12
+    ],
+    "demonym": "Cameroonian",
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "area": 475442
+  },
+  {
+    "name": {
+      "common": "Cape Verde",
+      "official": "Republic of Cabo Verde",
+      "native": {
+        "common": "Cabo Verde",
+        "official": "República de Cabo Verde"
+      }
+    },
+    "tld": [
+      ".cv"
+    ],
+    "cca2": "CV",
+    "ccn3": "132",
+    "cca3": "CPV",
+    "currency": [
+      "CVE"
+    ],
+    "callingCode": [
+      "238"
+    ],
+    "capital": "Praia",
+    "altSpellings": [
+      "CV",
+      "Republic of Cabo Verde",
+      "República de Cabo Verde"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "por",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "cym": "Cape Verde",
+      "deu": "Kap Verde",
+      "fra": "Cap Vert",
+      "hrv": "Zelenortska Republika",
+      "ita": "Capo Verde",
+      "jpn": "カーボベルデ",
+      "nld": "Kaapverdië",
+      "rus": "Кабо-Верде",
+      "spa": "Cabo Verde"
+    },
+    "latlng": [
+      16,
+      -24
+    ],
+    "demonym": "Cape Verdian",
+    "borders": [],
+    "area": 4033
+  },
+  {
+    "name": {
+      "common": "Central African Republic",
+      "official": "Central African Republic",
+      "native": {
+        "common": "Bêafrîka",
+        "official": "Ködörösêse tî Bêafrîka"
+      }
+    },
+    "tld": [
+      ".cf"
+    ],
+    "cca2": "CF",
+    "ccn3": "140",
+    "cca3": "CAF",
+    "currency": [
+      "XAF"
+    ],
+    "callingCode": [
+      "236"
+    ],
+    "capital": "Bangui",
+    "altSpellings": [
+      "CF",
+      "Central African Republic",
+      "République centrafricaine"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "sag",
+    "languages": {
+      "fra": "French",
+      "sag": "Sango"
+    },
+    "translations": {
+      "cym": "Gweriniaeth Canolbarth Affrica",
+      "deu": "Zentralafrikanische Republik",
+      "fra": "République centrafricaine",
+      "hrv": "Srednjoafrička Republika",
+      "ita": "Repubblica Centrafricana",
+      "jpn": "中央アフリカ共和国",
+      "nld": "Centraal-Afrikaanse Republiek",
+      "rus": "Центральноафриканская Республика",
+      "spa": "República Centroafricana"
+    },
+    "latlng": [
+      7,
+      21
+    ],
+    "demonym": "Central African",
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "area": 622984
+  },
+  {
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad",
+      "native": {
+        "common": "Tchad",
+        "official": "République du Tchad"
+      }
+    },
+    "tld": [
+      ".td"
+    ],
+    "cca2": "TD",
+    "ccn3": "148",
+    "cca3": "TCD",
+    "currency": [
+      "XAF"
+    ],
+    "callingCode": [
+      "235"
+    ],
+    "capital": "N'Djamena",
+    "altSpellings": [
+      "TD",
+      "Tchad",
+      "Republic of Chad",
+      "République du Tchad"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "ara",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "translations": {
+      "cym": "Tsiad",
+      "deu": "Tschad",
+      "fra": "Tchad",
+      "hrv": "Čad",
+      "ita": "Ciad",
+      "jpn": "チャド",
+      "nld": "Tsjaad",
+      "rus": "Чад",
+      "spa": "Chad"
+    },
+    "latlng": [
+      15,
+      19
+    ],
+    "demonym": "Chadian",
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SSD"
+    ],
+    "area": 1284000
+  },
+  {
+    "name": {
+      "common": "Comoros",
+      "official": "Union of the Comoros",
+      "native": {
+        "common": "Komori",
+        "official": "Udzima wa Komori"
+      }
+    },
+    "tld": [
+      ".km"
+    ],
+    "cca2": "KM",
+    "ccn3": "174",
+    "cca3": "COM",
+    "currency": [
+      "KMF"
+    ],
+    "callingCode": [
+      "269"
+    ],
+    "capital": "Moroni",
+    "altSpellings": [
+      "KM",
+      "Union of the Comoros",
+      "Union des Comores",
+      "Udzima wa Komori",
+      "al-Ittiḥād al-Qumurī"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "zdj",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French",
+      "zdj": "Comorian"
+    },
+    "translations": {
+      "cym": "Comoros",
+      "deu": "Union der Komoren",
+      "fra": "Comores",
+      "hrv": "Komori",
+      "ita": "Comore",
+      "jpn": "コモロ",
+      "nld": "Comoren",
+      "rus": "Коморы",
+      "spa": "Comoras"
+    },
+    "latlng": [
+      -12.16666666,
+      44.25
+    ],
+    "demonym": "Comoran",
+    "borders": [],
+    "area": 1862
+  },
+  {
+    "name": {
+      "common": "Republic of the Congo",
+      "official": "Republic of the Congo",
+      "native": {
+        "common": "République du Congo",
+        "official": "République du Congo"
+      }
+    },
+    "tld": [
+      ".cg"
+    ],
+    "cca2": "CG",
+    "ccn3": "178",
+    "cca3": "COG",
+    "currency": [
+      "XAF"
+    ],
+    "callingCode": [
+      "242"
+    ],
+    "capital": "Brazzaville",
+    "altSpellings": [
+      "CG",
+      "Congo-Brazzaville"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French",
+      "lin": "Lingala"
+    },
+    "translations": {
+      "cym": "Gweriniaeth y Congo",
+      "deu": "Kongo",
+      "fra": "Congo",
+      "hrv": "Kongo",
+      "ita": "Congo",
+      "jpn": "コンゴ共和国",
+      "nld": "Congo",
+      "rus": "Республика Конго",
+      "spa": "Congo"
+    },
+    "latlng": [
+      -1,
+      15
+    ],
+    "demonym": "Congolese",
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "area": 342000
+  },
+  {
+    "name": {
+      "common": "DR Congo",
+      "official": "Democratic Republic of the Congo",
+      "native": {
+        "common": "RD Congo",
+        "official": "République démocratique du Congo"
+      }
+    },
+    "tld": [
+      ".cd"
+    ],
+    "cca2": "CD",
+    "ccn3": "180",
+    "cca3": "COD",
+    "currency": [
+      "CDF"
+    ],
+    "callingCode": [
+      "243"
+    ],
+    "capital": "Kinshasa",
+    "altSpellings": [
+      "CD",
+      "DR Congo",
+      "Congo-Kinshasa",
+      "DRC"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "swa",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "cym": "Gweriniaeth Ddemocrataidd Congo",
+      "deu": "Kongo (Dem. Rep.)",
+      "fra": "Congo (Rép. dém.)",
+      "hrv": "Kongo, Demokratska Republika",
+      "ita": "Congo (Rep. Dem.)",
+      "jpn": "コンゴ民主共和国",
+      "nld": "Congo (DRC)",
+      "rus": "Демократическая Республика Конго",
+      "spa": "Congo (Rep. Dem.)"
+    },
+    "latlng": [
+      0,
+      25
+    ],
+    "demonym": "Congolese",
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 2344858
+  },
+  {
+    "name": {
+      "common": "Djibouti",
+      "official": "Republic of Djibouti",
+      "native": {
+        "common": "Djibouti",
+        "official": "République de Djibouti"
+      }
+    },
+    "tld": [
+      ".dj"
+    ],
+    "cca2": "DJ",
+    "ccn3": "262",
+    "cca3": "DJI",
+    "currency": [
+      "DJF"
+    ],
+    "callingCode": [
+      "253"
+    ],
+    "capital": "Djibouti",
+    "altSpellings": [
+      "DJ",
+      "Jabuuti",
+      "Gabuuti",
+      "Republic of Djibouti",
+      "République de Djibouti",
+      "Gabuutih Ummuuno",
+      "Jamhuuriyadda Jabuuti"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "ara",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "translations": {
+      "cym": "Djibouti",
+      "deu": "Dschibuti",
+      "fra": "Djibouti",
+      "hrv": "Džibuti",
+      "ita": "Gibuti",
+      "jpn": "ジブチ",
+      "nld": "Djibouti",
+      "rus": "Джибути",
+      "spa": "Yibuti"
+    },
+    "latlng": [
+      11.5,
+      43
+    ],
+    "demonym": "Djibouti",
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "area": 23200
+  },
+  {
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt",
+      "native": {
+        "common": "مصر",
+        "official": "جمهورية مصر العربية"
+      }
+    },
+    "tld": [
+      ".eg",
+      ".مصر"
+    ],
+    "cca2": "EG",
+    "ccn3": "818",
+    "cca3": "EGY",
+    "currency": [
+      "EGP"
+    ],
+    "callingCode": [
+      "20"
+    ],
+    "capital": "Cairo",
+    "altSpellings": [
+      "EG",
+      "Arab Republic of Egypt"
+    ],
+    "relevance": "1.5",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "nativeLanguage": "ara",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "cym": "Yr Aifft",
+      "deu": "Ägypten",
+      "fra": "Égypte",
+      "hrv": "Egipat",
+      "ita": "Egitto",
+      "jpn": "エジプト",
+      "nld": "Egypte",
+      "rus": "Египет",
+      "spa": "Egipto"
+    },
+    "latlng": [
+      27,
+      30
+    ],
+    "demonym": "Egyptian",
+    "borders": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ],
+    "area": 1002450
+  },
+  {
+    "name": {
+      "common": "Equatorial Guinea",
+      "official": "Republic of Equatorial Guinea",
+      "native": {
+        "common": "Guinea Ecuatorial",
+        "official": "República de Guinea Ecuatorial"
+      }
+    },
+    "tld": [
+      ".gq"
+    ],
+    "cca2": "GQ",
+    "ccn3": "226",
+    "cca3": "GNQ",
+    "currency": [
+      "XAF"
+    ],
+    "callingCode": [
+      "240"
+    ],
+    "capital": "Malabo",
+    "altSpellings": [
+      "GQ",
+      "Republic of Equatorial Guinea",
+      "República de Guinea Ecuatorial",
+      "République de Guinée équatoriale",
+      "República da Guiné Equatorial"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "spa",
+    "languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Gini Gyhydeddol",
+      "deu": "Äquatorial-Guinea",
+      "fra": "Guinée-Équatoriale",
+      "hrv": "Ekvatorijalna Gvineja",
+      "ita": "Guinea Equatoriale",
+      "jpn": "赤道ギニア",
+      "nld": "Equatoriaal-Guinea",
+      "rus": "Экваториальная Гвинея",
+      "spa": "Guinea Ecuatorial"
+    },
+    "latlng": [
+      2,
+      10
+    ],
+    "demonym": "Equatorial Guinean",
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "area": 28051
+  },
+  {
+    "name": {
+      "common": "Eritrea",
+      "official": "State of Eritrea",
+      "native": {
+        "common": "ኤርትራ",
+        "official": "ሃገረ ኤርትራ"
+      }
+    },
+    "tld": [
+      ".er"
+    ],
+    "cca2": "ER",
+    "ccn3": "232",
+    "cca3": "ERI",
+    "currency": [
+      "ERN"
+    ],
+    "callingCode": [
+      "291"
+    ],
+    "capital": "Asmara",
+    "altSpellings": [
+      "ER",
+      "State of Eritrea",
+      "ሃገረ ኤርትራ",
+      "Dawlat Iritriyá",
+      "ʾErtrā",
+      "Iritriyā",
+      ""
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "tir",
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English",
+      "tir": "Tigrinya"
+    },
+    "translations": {
+      "cym": "Eritrea",
+      "deu": "Eritrea",
+      "fra": "Érythrée",
+      "hrv": "Eritreja",
+      "ita": "Eritrea",
+      "jpn": "エリトリア",
+      "nld": "Eritrea",
+      "rus": "Эритрея",
+      "spa": "Eritrea"
+    },
+    "latlng": [
+      15,
+      39
+    ],
+    "demonym": "Eritrean",
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "area": 117600
+  },
+  {
+    "name": {
+      "common": "Ethiopia",
+      "official": "Federal Democratic Republic of Ethiopia",
+      "native": {
+        "common": "ኢትዮጵያ",
+        "official": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+      }
+    },
+    "tld": [
+      ".et"
+    ],
+    "cca2": "ET",
+    "ccn3": "231",
+    "cca3": "ETH",
+    "currency": [
+      "ETB"
+    ],
+    "callingCode": [
+      "251"
+    ],
+    "capital": "Addis Ababa",
+    "altSpellings": [
+      "ET",
+      "ʾĪtyōṗṗyā",
+      "Federal Democratic Republic of Ethiopia",
+      "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "amh",
+    "languages": {
+      "amh": "Amharic"
+    },
+    "translations": {
+      "cym": "Ethiopia",
+      "deu": "Äthiopien",
+      "fra": "Éthiopie",
+      "hrv": "Etiopija",
+      "ita": "Etiopia",
+      "jpn": "エチオピア",
+      "nld": "Ethiopië",
+      "rus": "Эфиопия",
+      "spa": "Etiopía"
+    },
+    "latlng": [
+      8,
+      38
+    ],
+    "demonym": "Ethiopian",
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "area": 1104300
+  },
+  {
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic",
+      "native": {
+        "common": "Gabon",
+        "official": "République gabonaise"
+      }
+    },
+    "tld": [
+      ".ga"
+    ],
+    "cca2": "GA",
+    "ccn3": "266",
+    "cca3": "GAB",
+    "currency": [
+      "XAF"
+    ],
+    "callingCode": [
+      "241"
+    ],
+    "capital": "Libreville",
+    "altSpellings": [
+      "GA",
+      "Gabonese Republic",
+      "République Gabonaise"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Gabun",
+      "fra": "Gabon",
+      "hrv": "Gabon",
+      "ita": "Gabon",
+      "jpn": "ガボン",
+      "nld": "Gabon",
+      "rus": "Габон",
+      "spa": "Gabón"
+    },
+    "latlng": [
+      -1,
+      11.75
+    ],
+    "demonym": "Gabonese",
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "area": 267668
+  },
+  {
+    "name": {
+      "common": "Gambia",
+      "official": "Republic of the Gambia",
+      "native": {
+        "common": "Gambia",
+        "official": "Republic of the Gambia"
+      }
+    },
+    "tld": [
+      ".gm"
+    ],
+    "cca2": "GM",
+    "ccn3": "270",
+    "cca3": "GMB",
+    "currency": [
+      "GMD"
+    ],
+    "callingCode": [
+      "220"
+    ],
+    "capital": "Banjul",
+    "altSpellings": [
+      "GM",
+      "Republic of the Gambia"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Gambia",
+      "fra": "Gambie",
+      "hrv": "Gambija",
+      "ita": "Gambia",
+      "jpn": "ガンビア",
+      "nld": "Gambia",
+      "rus": "Гамбия",
+      "spa": "Gambia"
+    },
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "demonym": "Gambian",
+    "borders": [
+      "SEN"
+    ],
+    "area": 10689
+  },
+  {
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana",
+      "native": {
+        "common": "Ghana",
+        "official": "Republic of Ghana"
+      }
+    },
+    "tld": [
+      ".gh"
+    ],
+    "cca2": "GH",
+    "ccn3": "288",
+    "cca3": "GHA",
+    "currency": [
+      "GHS"
+    ],
+    "callingCode": [
+      "233"
+    ],
+    "capital": "Accra",
+    "altSpellings": [
+      "GH"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Ghana",
+      "fra": "Ghana",
+      "hrv": "Gana",
+      "ita": "Ghana",
+      "jpn": "ガーナ",
+      "nld": "Ghana",
+      "rus": "Гана",
+      "spa": "Ghana"
+    },
+    "latlng": [
+      8,
+      -2
+    ],
+    "demonym": "Ghanaian",
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "area": 238533
+  },
+  {
+    "name": {
+      "common": "Guinea",
+      "official": "Republic of Guinea",
+      "native": {
+        "common": "Guinée",
+        "official": "République de Guinée"
+      }
+    },
+    "tld": [
+      ".gn"
+    ],
+    "cca2": "GN",
+    "ccn3": "324",
+    "cca3": "GIN",
+    "currency": [
+      "GNF"
+    ],
+    "callingCode": [
+      "224"
+    ],
+    "capital": "Conakry",
+    "altSpellings": [
+      "GN",
+      "Republic of Guinea",
+      "République de Guinée"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Guinea",
+      "fra": "Guinée",
+      "hrv": "Gvineja",
+      "ita": "Guinea",
+      "jpn": "ギニア",
+      "nld": "Guinee",
+      "rus": "Гвинея",
+      "spa": "Guinea"
+    },
+    "latlng": [
+      11,
+      -10
+    ],
+    "demonym": "Guinean",
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "area": 245857
+  },
+  {
+    "name": {
+      "common": "Guinea-Bissau",
+      "official": "Republic of Guinea-Bissau",
+      "native": {
+        "common": "Guiné-Bissau",
+        "official": "República da Guiné-Bissau"
+      }
+    },
+    "tld": [
+      ".gw"
+    ],
+    "cca2": "GW",
+    "ccn3": "624",
+    "cca3": "GNB",
+    "currency": [
+      "XOF"
+    ],
+    "callingCode": [
+      "245"
+    ],
+    "capital": "Bissau",
+    "altSpellings": [
+      "GW",
+      "Republic of Guinea-Bissau",
+      "República da Guiné-Bissau"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "por",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "deu": "Guinea-Bissau",
+      "fra": "Guinée-Bissau",
+      "hrv": "Gvineja Bisau",
+      "ita": "Guinea-Bissau",
+      "jpn": "ギニアビサウ",
+      "nld": "Guinee-Bissau",
+      "rus": "Гвинея-Бисау",
+      "spa": "Guinea-Bisáu"
+    },
+    "latlng": [
+      12,
+      -15
+    ],
+    "demonym": "Guinea-Bissauan",
+    "borders": [
+      "GIN",
+      "SEN"
+    ],
+    "area": 36125
+  },
+  {
+    "name": {
+      "common": "Ivory Coast",
+      "official": "Republic of Côte d'Ivoire",
+      "native": {
+        "common": "Côte d'Ivoire",
+        "official": "République de Côte d'Ivoire"
+      }
+    },
+    "tld": [
+      ".ci"
+    ],
+    "cca2": "CI",
+    "ccn3": "384",
+    "cca3": "CIV",
+    "currency": [
+      "XOF"
+    ],
+    "callingCode": [
+      "225"
+    ],
+    "capital": "Yamoussoukro",
+    "altSpellings": [
+      "CI",
+      "Ivory Coast",
+      "Republic of Côte d'Ivoire",
+      "République de Côte d'Ivoire"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Elfenbeinküste",
+      "fra": "Côte d'Ivoire",
+      "hrv": "Obala Bjelokosti",
+      "ita": "Costa D'Avorio",
+      "jpn": "コートジボワール",
+      "nld": "Ivoorkust",
+      "rus": "Кот-д’Ивуар",
+      "spa": "Costa de Marfil"
+    },
+    "latlng": [
+      8,
+      -5
+    ],
+    "demonym": "Ivorian",
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "area": 322463
+  },
+  {
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya",
+      "native": {
+        "common": "Kenya",
+        "official": "Republic of Kenya"
+      }
+    },
+    "tld": [
+      ".ke"
+    ],
+    "cca2": "KE",
+    "ccn3": "404",
+    "cca3": "KEN",
+    "currency": [
+      "KES"
+    ],
+    "callingCode": [
+      "254"
+    ],
+    "capital": "Nairobi",
+    "altSpellings": [
+      "KE",
+      "Republic of Kenya",
+      "Jamhuri ya Kenya"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "swa",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "deu": "Kenia",
+      "fra": "Kenya",
+      "hrv": "Kenija",
+      "ita": "Kenya",
+      "jpn": "ケニア",
+      "nld": "Kenia",
+      "rus": "Кения",
+      "spa": "Kenia"
+    },
+    "latlng": [
+      1,
+      38
+    ],
+    "demonym": "Kenyan",
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "area": 580367
+  },
+  {
+    "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho",
+      "native": {
+        "common": "Lesotho",
+        "official": "Kingdom of Lesotho"
+      }
+    },
+    "tld": [
+      ".ls"
+    ],
+    "cca2": "LS",
+    "ccn3": "426",
+    "cca3": "LSO",
+    "currency": [
+      "LSL",
+      "ZAR"
+    ],
+    "callingCode": [
+      "266"
+    ],
+    "capital": "Maseru",
+    "altSpellings": [
+      "LS",
+      "Kingdom of Lesotho",
+      "Muso oa Lesotho"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "nativeLanguage": "sot",
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    },
+    "translations": {
+      "deu": "Lesotho",
+      "fra": "Lesotho",
+      "hrv": "Lesoto",
+      "ita": "Lesotho",
+      "jpn": "レソト",
+      "nld": "Lesotho",
+      "rus": "Лесото",
+      "spa": "Lesotho"
+    },
+    "latlng": [
+      -29.5,
+      28.5
+    ],
+    "demonym": "Mosotho",
+    "borders": [
+      "ZAF"
+    ],
+    "area": 30355
+  },
+  {
+    "name": {
+      "common": "Liberia",
+      "official": "Republic of Liberia",
+      "native": {
+        "common": "Liberia",
+        "official": "Republic of Liberia"
+      }
+    },
+    "tld": [
+      ".lr"
+    ],
+    "cca2": "LR",
+    "ccn3": "430",
+    "cca3": "LBR",
+    "currency": [
+      "LRD"
+    ],
+    "callingCode": [
+      "231"
+    ],
+    "capital": "Monrovia",
+    "altSpellings": [
+      "LR",
+      "Republic of Liberia"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Liberia",
+      "fra": "Liberia",
+      "hrv": "Liberija",
+      "ita": "Liberia",
+      "jpn": "リベリア",
+      "nld": "Liberia",
+      "rus": "Либерия",
+      "spa": "Liberia"
+    },
+    "latlng": [
+      6.5,
+      -9.5
+    ],
+    "demonym": "Liberian",
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "area": 111369
+  },
+  {
+    "name": {
+      "common": "Libya",
+      "official": "State of Libya",
+      "native": {
+        "common": "‏ليبيا",
+        "official": "الدولة ليبيا"
+      }
+    },
+    "tld": [
+      ".ly"
+    ],
+    "cca2": "LY",
+    "ccn3": "434",
+    "cca3": "LBY",
+    "currency": [
+      "LYD"
+    ],
+    "callingCode": [
+      "218"
+    ],
+    "capital": "Tripoli",
+    "altSpellings": [
+      "LY",
+      "State of Libya",
+      "Dawlat Libya"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "nativeLanguage": "ara",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "deu": "Libyen",
+      "fra": "Libye",
+      "hrv": "Libija",
+      "ita": "Libia",
+      "jpn": "リビア",
+      "nld": "Libië",
+      "rus": "Ливия",
+      "spa": "Libia"
+    },
+    "latlng": [
+      25,
+      17
+    ],
+    "demonym": "Libyan",
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "area": 1759540
+  },
+  {
+    "name": {
+      "common": "Madagascar",
+      "official": "Republic of Madagascar",
+      "native": {
+        "common": "Madagasikara",
+        "official": "République de Madagascar"
+      }
+    },
+    "tld": [
+      ".mg"
+    ],
+    "cca2": "MG",
+    "ccn3": "450",
+    "cca3": "MDG",
+    "currency": [
+      "MGA"
+    ],
+    "callingCode": [
+      "261"
+    ],
+    "capital": "Antananarivo",
+    "altSpellings": [
+      "MG",
+      "Republic of Madagascar",
+      "Repoblikan'i Madagasikara",
+      "République de Madagascar"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    },
+    "translations": {
+      "deu": "Madagaskar",
+      "fra": "Madagascar",
+      "hrv": "Madagaskar",
+      "ita": "Madagascar",
+      "jpn": "マダガスカル",
+      "nld": "Madagaskar",
+      "rus": "Мадагаскар",
+      "spa": "Madagascar"
+    },
+    "latlng": [
+      -20,
+      47
+    ],
+    "demonym": "Malagasy",
+    "borders": [],
+    "area": 587041
+  },
+  {
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi",
+      "native": {
+        "common": "Malaŵi",
+        "official": "Chalo cha Malawi, Dziko la Malaŵi"
+      }
+    },
+    "tld": [
+      ".mw"
+    ],
+    "cca2": "MW",
+    "ccn3": "454",
+    "cca3": "MWI",
+    "currency": [
+      "MWK"
+    ],
+    "callingCode": [
+      "265"
+    ],
+    "capital": "Lilongwe",
+    "altSpellings": [
+      "MW",
+      "Republic of Malawi"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "nya",
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    },
+    "translations": {
+      "deu": "Malawi",
+      "fra": "Malawi",
+      "hrv": "Malavi",
+      "ita": "Malawi",
+      "jpn": "マラウイ",
+      "nld": "Malawi",
+      "rus": "Малави",
+      "spa": "Malawi"
+    },
+    "latlng": [
+      -13.5,
+      34
+    ],
+    "demonym": "Malawian",
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "area": 118484
+  },
+  {
+    "name": {
+      "common": "Mali",
+      "official": "Republic of Mali",
+      "native": {
+        "common": "Mali",
+        "official": "République du Mali"
+      }
+    },
+    "tld": [
+      ".ml"
+    ],
+    "cca2": "ML",
+    "ccn3": "466",
+    "cca3": "MLI",
+    "currency": [
+      "XOF"
+    ],
+    "callingCode": [
+      "223"
+    ],
+    "capital": "Bamako",
+    "altSpellings": [
+      "ML",
+      "Republic of Mali",
+      "République du Mali"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Mali",
+      "fra": "Mali",
+      "hrv": "Mali",
+      "ita": "Mali",
+      "jpn": "マリ",
+      "nld": "Mali",
+      "rus": "Мали",
+      "spa": "Mali"
+    },
+    "latlng": [
+      17,
+      -4
+    ],
+    "demonym": "Malian",
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "area": 1240192
+  },
+  {
+    "name": {
+      "common": "Mauritania",
+      "official": "Islamic Republic of Mauritania",
+      "native": {
+        "common": "موريتانيا",
+        "official": "الجمهورية الإسلامية الموريتانية"
+      }
+    },
+    "tld": [
+      ".mr"
+    ],
+    "cca2": "MR",
+    "ccn3": "478",
+    "cca3": "MRT",
+    "currency": [
+      "MRO"
+    ],
+    "callingCode": [
+      "222"
+    ],
+    "capital": "Nouakchott",
+    "altSpellings": [
+      "MR",
+      "Islamic Republic of Mauritania",
+      "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "ara",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "deu": "Mauretanien",
+      "fra": "Mauritanie",
+      "hrv": "Mauritanija",
+      "ita": "Mauritania",
+      "jpn": "モーリタニア",
+      "nld": "Mauritanië",
+      "rus": "Мавритания",
+      "spa": "Mauritania"
+    },
+    "latlng": [
+      20,
+      -12
+    ],
+    "demonym": "Mauritanian",
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "area": 1030700
+  },
+  {
+    "name": {
+      "common": "Mauritius",
+      "official": "Republic of Mauritius",
+      "native": {
+        "common": "Maurice",
+        "official": "Republic of Mauritius"
+      }
+    },
+    "tld": [
+      ".mu"
+    ],
+    "cca2": "MU",
+    "ccn3": "480",
+    "cca3": "MUS",
+    "currency": [
+      "MUR"
+    ],
+    "callingCode": [
+      "230"
+    ],
+    "capital": "Port Louis",
+    "altSpellings": [
+      "MU",
+      "Republic of Mauritius",
+      "République de Maurice"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "mfe",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    },
+    "translations": {
+      "deu": "Mauritius",
+      "fra": "Île Maurice",
+      "hrv": "Mauricijus",
+      "ita": "Mauritius",
+      "jpn": "モーリシャス",
+      "nld": "Mauritius",
+      "rus": "Маврикий",
+      "spa": "Mauricio"
+    },
+    "latlng": [
+      -20.28333333,
+      57.55
+    ],
+    "demonym": "Mauritian",
+    "borders": [],
+    "area": 2040
+  },
+  {
+    "name": {
+      "common": "Mayotte",
+      "official": "Department of Mayotte",
+      "native": {
+        "common": "Mayotte",
+        "official": "Département de Mayotte"
+      }
+    },
+    "tld": [
+      ".yt"
+    ],
+    "cca2": "YT",
+    "ccn3": "175",
+    "cca3": "MYT",
+    "currency": [
+      "EUR"
+    ],
+    "callingCode": [
+      "262"
+    ],
+    "capital": "Mamoudzou",
+    "altSpellings": [
+      "YT",
+      "Department of Mayotte",
+      "Département de Mayotte"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Mayotte",
+      "fra": "Mayotte",
+      "hrv": "Mayotte",
+      "ita": "Mayotte",
+      "jpn": "マヨット",
+      "nld": "Mayotte",
+      "rus": "Майотта",
+      "spa": "Mayotte"
+    },
+    "latlng": [
+      -12.83333333,
+      45.16666666
+    ],
+    "demonym": "Mahoran",
+    "borders": [],
+    "area": 374
+  },
+  {
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco",
+      "native": {
+        "common": "المغرب",
+        "official": "المملكة المغربية"
+      }
+    },
+    "tld": [
+      ".ma",
+      "المغرب."
+    ],
+    "cca2": "MA",
+    "ccn3": "504",
+    "cca3": "MAR",
+    "currency": [
+      "MAD"
+    ],
+    "callingCode": [
+      "212"
+    ],
+    "capital": "Rabat",
+    "altSpellings": [
+      "MA",
+      "Kingdom of Morocco",
+      "Al-Mamlakah al-Maġribiyah"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "nativeLanguage": "ara",
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "translations": {
+      "deu": "Marokko",
+      "fra": "Maroc",
+      "hrv": "Maroko",
+      "ita": "Marocco",
+      "jpn": "モロッコ",
+      "nld": "Marokko",
+      "rus": "Марокко",
+      "spa": "Marruecos"
+    },
+    "latlng": [
+      32,
+      -5
+    ],
+    "demonym": "Moroccan",
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "area": 446550
+  },
+  {
+    "name": {
+      "common": "Mozambique",
+      "official": "Republic of Mozambique",
+      "native": {
+        "common": "Moçambique",
+        "official": "República de Moçambique"
+      }
+    },
+    "tld": [
+      ".mz"
+    ],
+    "cca2": "MZ",
+    "ccn3": "508",
+    "cca3": "MOZ",
+    "currency": [
+      "MZN"
+    ],
+    "callingCode": [
+      "258"
+    ],
+    "capital": "Maputo",
+    "altSpellings": [
+      "MZ",
+      "Republic of Mozambique",
+      "República de Moçambique"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "por",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "deu": "Mosambik",
+      "fra": "Mozambique",
+      "hrv": "Mozambik",
+      "ita": "Mozambico",
+      "jpn": "モザンビーク",
+      "nld": "Mozambique",
+      "rus": "Мозамбик",
+      "spa": "Mozambique"
+    },
+    "latlng": [
+      -18.25,
+      35
+    ],
+    "demonym": "Mozambican",
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 801590
+  },
+  {
+    "name": {
+      "common": "Namibia",
+      "official": "Republic of Namibia",
+      "native": {
+        "common": "Namibia",
+        "official": "Republic of Namibia"
+      }
+    },
+    "tld": [
+      ".na"
+    ],
+    "cca2": "NA",
+    "ccn3": "516",
+    "cca3": "NAM",
+    "currency": [
+      "NAD",
+      "ZAR"
+    ],
+    "callingCode": [
+      "264"
+    ],
+    "capital": "Windhoek",
+    "altSpellings": [
+      "NA",
+      "Namibië",
+      "Republic of Namibia"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "nativeLanguage": "afr",
+    "languages": {
+      "afr": "Afrikaans",
+      "deu": "German",
+      "eng": "English",
+      "her": "Herero",
+      "hgm": "Khoekhoe",
+      "kwn": "Kwangali",
+      "loz": "Lozi",
+      "ndo": "Ndonga",
+      "tsn": "Tswana"
+    },
+    "translations": {
+      "deu": "Namibia",
+      "fra": "Namibie",
+      "hrv": "Namibija",
+      "ita": "Namibia",
+      "jpn": "ナミビア",
+      "nld": "Namibië",
+      "rus": "Намибия",
+      "spa": "Namibia"
+    },
+    "latlng": [
+      -22,
+      17
+    ],
+    "demonym": "Namibian",
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "area": 825615
+  },
+  {
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger",
+      "native": {
+        "common": "Niger",
+        "official": "République du Niger"
+      }
+    },
+    "tld": [
+      ".ne"
+    ],
+    "cca2": "NE",
+    "ccn3": "562",
+    "cca3": "NER",
+    "currency": [
+      "XOF"
+    ],
+    "callingCode": [
+      "227"
+    ],
+    "capital": "Niamey",
+    "altSpellings": [
+      "NE",
+      "Nijar",
+      "Republic of Niger",
+      "République du Niger"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Niger",
+      "fra": "Niger",
+      "hrv": "Niger",
+      "ita": "Niger",
+      "jpn": "ニジェール",
+      "nld": "Niger",
+      "rus": "Нигер",
+      "spa": "Níger"
+    },
+    "latlng": [
+      16,
+      8
+    ],
+    "demonym": "Nigerien",
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "area": 1267000
+  },
+  {
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria",
+      "native": {
+        "common": "Nigeria",
+        "official": "Federal Republic of Nigeria"
+      }
+    },
+    "tld": [
+      ".ng"
+    ],
+    "cca2": "NG",
+    "ccn3": "566",
+    "cca3": "NGA",
+    "currency": [
+      "NGN"
+    ],
+    "callingCode": [
+      "234"
+    ],
+    "capital": "Abuja",
+    "altSpellings": [
+      "NG",
+      "Nijeriya",
+      "Naíjíríà",
+      "Federal Republic of Nigeria"
+    ],
+    "relevance": "1.5",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Nigeria",
+      "fra": "Nigéria",
+      "hrv": "Nigerija",
+      "ita": "Nigeria",
+      "jpn": "ナイジェリア",
+      "nld": "Nigeria",
+      "rus": "Нигерия",
+      "spa": "Nigeria"
+    },
+    "latlng": [
+      10,
+      8
+    ],
+    "demonym": "Nigerian",
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "area": 923768
+  },
+  {
+    "name": {
+      "common": "Réunion",
+      "official": "Réunion Island",
+      "native": {
+        "common": "La Réunion",
+        "official": "Ile de la Réunion"
+      }
+    },
+    "tld": [
+      ".re"
+    ],
+    "cca2": "RE",
+    "ccn3": "638",
+    "cca3": "REU",
+    "currency": [
+      "EUR"
+    ],
+    "callingCode": [
+      "262"
+    ],
+    "capital": "Saint-Denis",
+    "altSpellings": [
+      "RE",
+      "Reunion"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Réunion",
+      "fra": "Réunion",
+      "hrv": "Réunion",
+      "ita": "Riunione",
+      "jpn": "レユニオン",
+      "nld": "Réunion",
+      "rus": "Реюньон",
+      "spa": "Reunión"
+    },
+    "latlng": [
+      -21.15,
+      55.5
+    ],
+    "demonym": "French",
+    "borders": [],
+    "area": 2511
+  },
+  {
+    "name": {
+      "common": "Rwanda",
+      "official": "Republic of Rwanda",
+      "native": {
+        "common": "Rwanda",
+        "official": "Repubulika y'u Rwanda"
+      }
+    },
+    "tld": [
+      ".rw"
+    ],
+    "cca2": "RW",
+    "ccn3": "646",
+    "cca3": "RWA",
+    "currency": [
+      "RWF"
+    ],
+    "callingCode": [
+      "250"
+    ],
+    "capital": "Kigali",
+    "altSpellings": [
+      "RW",
+      "Republic of Rwanda",
+      "Repubulika y'u Rwanda",
+      "République du Rwanda"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "kin",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "kin": "Kinyarwanda"
+    },
+    "translations": {
+      "deu": "Ruanda",
+      "fra": "Rwanda",
+      "hrv": "Ruanda",
+      "ita": "Ruanda",
+      "jpn": "ルワンダ",
+      "nld": "Rwanda",
+      "rus": "Руанда",
+      "spa": "Ruanda"
+    },
+    "latlng": [
+      -2,
+      30
+    ],
+    "demonym": "Rwandan",
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "area": 26338
+  },
+  {
+    "name": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "official": "Saint Helena, Ascension and Tristan da Cunha",
+      "native": {
+        "common": "Saint Helena, Ascension and Tristan da Cunha",
+        "official": "Saint Helena, Ascension and Tristan da Cunha"
+      }
+    },
+    "tld": [
+      ".sh"
+    ],
+    "cca2": "SH",
+    "ccn3": "654",
+    "cca3": "SHN",
+    "currency": [
+      "SHP"
+    ],
+    "callingCode": [
+      "290"
+    ],
+    "capital": "Jamestown",
+    "altSpellings": [
+      "SH"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Sankt Helena",
+      "fra": "Sainte-Hélène",
+      "hrv": "Sveta Helena",
+      "ita": "Sant'Elena",
+      "jpn": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+      "nld": "Sint-Helena",
+      "rus": "Остров Святой Елены",
+      "spa": "Santa Helena"
+    },
+    "latlng": [
+      -15.95,
+      -5.7
+    ],
+    "demonym": "Saint Helenian",
+    "borders": [],
+    "area": 397
+  },
+  {
+    "name": {
+      "common": "São Tomé and Príncipe",
+      "official": "Democratic Republic of São Tomé and Príncipe",
+      "native": {
+        "common": "São Tomé e Príncipe",
+        "official": "República Democrática do São Tomé e Príncipe"
+      }
+    },
+    "tld": [
+      ".st"
+    ],
+    "cca2": "ST",
+    "ccn3": "678",
+    "cca3": "STP",
+    "currency": [
+      "STD"
+    ],
+    "callingCode": [
+      "239"
+    ],
+    "capital": "São Tomé",
+    "altSpellings": [
+      "ST",
+      "Democratic Republic of São Tomé and Príncipe",
+      "República Democrática de São Tomé e Príncipe"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "por",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "deu": "São Tomé und Príncipe",
+      "fra": "Sao Tomé-et-Principe",
+      "hrv": "Sveti Toma i Princip",
+      "ita": "São Tomé e Príncipe",
+      "jpn": "サントメ・プリンシペ",
+      "nld": "Sao Tomé en Principe",
+      "rus": "Сан-Томе и Принсипи",
+      "spa": "Santo Tomé y Príncipe"
+    },
+    "latlng": [
+      1,
+      7
+    ],
+    "demonym": "Sao Tomean",
+    "borders": [],
+    "area": 964
+  },
+  {
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal",
+      "native": {
+        "common": "Sénégal",
+        "official": "République du Sénégal"
+      }
+    },
+    "tld": [
+      ".sn"
+    ],
+    "cca2": "SN",
+    "ccn3": "686",
+    "cca3": "SEN",
+    "currency": [
+      "XOF"
+    ],
+    "callingCode": [
+      "221"
+    ],
+    "capital": "Dakar",
+    "altSpellings": [
+      "SN",
+      "Republic of Senegal",
+      "République du Sénégal"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Senegal",
+      "fra": "Sénégal",
+      "hrv": "Senegal",
+      "ita": "Senegal",
+      "jpn": "セネガル",
+      "nld": "Senegal",
+      "rus": "Сенегал",
+      "spa": "Senegal"
+    },
+    "latlng": [
+      14,
+      -14
+    ],
+    "demonym": "Senegalese",
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "area": 196722
+  },
+  {
+    "name": {
+      "common": "Seychelles",
+      "official": "Republic of Seychelles",
+      "native": {
+        "common": "Seychelles",
+        "official": "République des Seychelles"
+      }
+    },
+    "tld": [
+      ".sc"
+    ],
+    "cca2": "SC",
+    "ccn3": "690",
+    "cca3": "SYC",
+    "currency": [
+      "SCR"
+    ],
+    "callingCode": [
+      "248"
+    ],
+    "capital": "Victoria",
+    "altSpellings": [
+      "SC",
+      "Republic of Seychelles",
+      "Repiblik Sesel",
+      "République des Seychelles"
+    ],
+    "relevance": "0.5",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Seychellen",
+      "fra": "Seychelles",
+      "hrv": "Sejšeli",
+      "ita": "Seychelles",
+      "jpn": "セーシェル",
+      "nld": "Seychellen",
+      "rus": "Сейшельские Острова",
+      "spa": "Seychelles"
+    },
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "demonym": "Seychellois",
+    "borders": [],
+    "area": 452
+  },
+  {
+    "name": {
+      "common": "Sierra Leone",
+      "official": "Republic of Sierra Leone",
+      "native": {
+        "common": "Sierra Leone",
+        "official": "Republic of Sierra Leone"
+      }
+    },
+    "tld": [
+      ".sl"
+    ],
+    "cca2": "SL",
+    "ccn3": "694",
+    "cca3": "SLE",
+    "currency": [
+      "SLL"
+    ],
+    "callingCode": [
+      "232"
+    ],
+    "capital": "Freetown",
+    "altSpellings": [
+      "SL",
+      "Republic of Sierra Leone"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Sierra Leone",
+      "fra": "Sierra Leone",
+      "hrv": "Sijera Leone",
+      "ita": "Sierra Leone",
+      "jpn": "シエラレオネ",
+      "nld": "Sierra Leone",
+      "rus": "Сьерра-Леоне",
+      "spa": "Sierra Leone"
+    },
+    "latlng": [
+      8.5,
+      -11.5
+    ],
+    "demonym": "Sierra Leonean",
+    "borders": [
+      "GIN",
+      "LBR"
+    ],
+    "area": 71740
+  },
+  {
+    "name": {
+      "common": "Somalia",
+      "official": "Federal Republic of Somalia",
+      "native": {
+        "common": "Soomaaliya",
+        "official": "Jamhuuriyadda Federaalka Soomaaliya"
+      }
+    },
+    "tld": [
+      ".so"
+    ],
+    "cca2": "SO",
+    "ccn3": "706",
+    "cca3": "SOM",
+    "currency": [
+      "SOS"
+    ],
+    "callingCode": [
+      "252"
+    ],
+    "capital": "Mogadishu",
+    "altSpellings": [
+      "SO",
+      "aṣ-Ṣūmāl",
+      "Federal Republic of Somalia",
+      "Jamhuuriyadda Federaalka Soomaaliya",
+      "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "som",
+    "languages": {
+      "ara": "Arabic",
+      "som": "Somali"
+    },
+    "translations": {
+      "deu": "Somalia",
+      "fra": "Somalie",
+      "hrv": "Somalija",
+      "ita": "Somalia",
+      "jpn": "ソマリア",
+      "nld": "Somalië",
+      "rus": "Сомали",
+      "spa": "Somalia"
+    },
+    "latlng": [
+      10,
+      49
+    ],
+    "demonym": "Somali",
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "area": 637657
+  },
+  {
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa",
+      "native": {
+        "common": "South Africa",
+        "official": "Republiek van Suid-Afrika"
+      }
+    },
+    "tld": [
+      ".za"
+    ],
+    "cca2": "ZA",
+    "ccn3": "710",
+    "cca3": "ZAF",
+    "currency": [
+      "ZAR"
+    ],
+    "callingCode": [
+      "27"
+    ],
+    "capital": "Pretoria",
+    "altSpellings": [
+      "ZA",
+      "RSA",
+      "Suid-Afrika",
+      "Republic of South Africa"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "nativeLanguage": "afr",
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "translations": {
+      "deu": "Republik Südafrika",
+      "fra": "Afrique du Sud",
+      "hrv": "Južnoafrička Republika",
+      "ita": "Sud Africa",
+      "jpn": "南アフリカ",
+      "nld": "Zuid-Afrika",
+      "rus": "Южно-Африканская Республика",
+      "spa": "República de Sudáfrica"
+    },
+    "latlng": [
+      -29,
+      24
+    ],
+    "demonym": "South African",
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "area": 1221037
+  },
+  {
+    "name": {
+      "common": "South Sudan",
+      "official": "Republic of South SudanSouth Sudan",
+      "native": {
+        "common": "South Sudan",
+        "official": "Republic of South SudanSouth Sudan"
+      }
+    },
+    "tld": [
+      ".ss"
+    ],
+    "cca2": "SS",
+    "ccn3": "728",
+    "cca3": "SSD",
+    "currency": [
+      "SSP"
+    ],
+    "callingCode": [
+      "211"
+    ],
+    "capital": "Juba",
+    "altSpellings": [
+      "SS"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Südsudan",
+      "fra": "Soudan du Sud",
+      "hrv": "Južni Sudan",
+      "ita": "Sudan del sud",
+      "jpn": "南スーダン",
+      "nld": "Zuid-Soedan",
+      "rus": "Южный Судан",
+      "spa": "Sudán del Sur"
+    },
+    "latlng": [
+      7,
+      30
+    ],
+    "demonym": "South Sudanese",
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "area": 619745
+  },
+  {
+    "name": {
+      "common": "Sudan",
+      "official": "Republic of the Sudan",
+      "native": {
+        "common": "السودان",
+        "official": "جمهورية السودان"
+      }
+    },
+    "tld": [
+      ".sd"
+    ],
+    "cca2": "SD",
+    "ccn3": "729",
+    "cca3": "SDN",
+    "currency": [
+      "SDG"
+    ],
+    "callingCode": [
+      "249"
+    ],
+    "capital": "Khartoum",
+    "altSpellings": [
+      "SD",
+      "Republic of the Sudan",
+      "Jumhūrīyat as-Sūdān"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "nativeLanguage": "ara",
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Sudan",
+      "fra": "Soudan",
+      "hrv": "Sudan",
+      "ita": "Sudan",
+      "jpn": "スーダン",
+      "nld": "Soedan",
+      "rus": "Судан",
+      "spa": "Sudán"
+    },
+    "latlng": [
+      15,
+      30
+    ],
+    "demonym": "Sudanese",
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "area": 1886068
+  },
+  {
+    "name": {
+      "common": "Swaziland",
+      "official": "Kingdom of Swaziland",
+      "native": {
+        "common": "Swaziland",
+        "official": "Kingdom of Swaziland"
+      }
+    },
+    "tld": [
+      ".sz"
+    ],
+    "cca2": "SZ",
+    "ccn3": "748",
+    "cca3": "SWZ",
+    "currency": [
+      "SZL"
+    ],
+    "callingCode": [
+      "268"
+    ],
+    "capital": "Lobamba",
+    "altSpellings": [
+      "SZ",
+      "weSwatini",
+      "Swatini",
+      "Ngwane",
+      "Kingdom of Swaziland",
+      "Umbuso waseSwatini"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "nativeLanguage": "ssw",
+    "languages": {
+      "eng": "English",
+      "ssw": "Swazi"
+    },
+    "translations": {
+      "deu": "Swasiland",
+      "fra": "Swaziland",
+      "hrv": "Svazi",
+      "ita": "Swaziland",
+      "jpn": "スワジランド",
+      "nld": "Swaziland",
+      "rus": "Свазиленд",
+      "spa": "Suazilandia"
+    },
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "demonym": "Swazi",
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "area": 17364
+  },
+  {
+    "name": {
+      "common": "Tanzania",
+      "official": "United Republic of Tanzania",
+      "native": {
+        "common": "Tanzania",
+        "official": "Jamhuri ya Muungano wa Tanzania"
+      }
+    },
+    "tld": [
+      ".tz"
+    ],
+    "cca2": "TZ",
+    "ccn3": "834",
+    "cca3": "TZA",
+    "currency": [
+      "TZS"
+    ],
+    "callingCode": [
+      "255"
+    ],
+    "capital": "Dodoma",
+    "altSpellings": [
+      "TZ",
+      "United Republic of Tanzania",
+      "Jamhuri ya Muungano wa Tanzania"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "swa",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "deu": "Tansania",
+      "fra": "Tanzanie",
+      "hrv": "Tanzanija",
+      "ita": "Tanzania",
+      "jpn": "タンザニア",
+      "nld": "Tanzania",
+      "rus": "Танзания",
+      "spa": "Tanzania"
+    },
+    "latlng": [
+      -6,
+      35
+    ],
+    "demonym": "Tanzanian",
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 945087
+  },
+  {
+    "name": {
+      "common": "Togo",
+      "official": "Togolese Republic",
+      "native": {
+        "common": "Togo",
+        "official": "République togolaise"
+      }
+    },
+    "tld": [
+      ".tg"
+    ],
+    "cca2": "TG",
+    "ccn3": "768",
+    "cca3": "TGO",
+    "currency": [
+      "XOF"
+    ],
+    "callingCode": [
+      "228"
+    ],
+    "capital": "Lomé",
+    "altSpellings": [
+      "TG",
+      "Togolese",
+      "Togolese Republic",
+      "République Togolaise"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Togo",
+      "fra": "Togo",
+      "hrv": "Togo",
+      "ita": "Togo",
+      "jpn": "トーゴ",
+      "nld": "Togo",
+      "rus": "Того",
+      "spa": "Togo"
+    },
+    "latlng": [
+      8,
+      1.16666666
+    ],
+    "demonym": "Togolese",
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "area": 56785
+  },
+  {
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic",
+      "native": {
+        "common": "تونس",
+        "official": "الجمهورية التونسية"
+      }
+    },
+    "tld": [
+      ".tn"
+    ],
+    "cca2": "TN",
+    "ccn3": "788",
+    "cca3": "TUN",
+    "currency": [
+      "TND"
+    ],
+    "callingCode": [
+      "216"
+    ],
+    "capital": "Tunis",
+    "altSpellings": [
+      "TN",
+      "Republic of Tunisia",
+      "al-Jumhūriyyah at-Tūnisiyyah"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "nativeLanguage": "ara",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "translations": {
+      "deu": "Tunesien",
+      "fra": "Tunisie",
+      "hrv": "Tunis",
+      "ita": "Tunisia",
+      "jpn": "チュニジア",
+      "nld": "Tunesië",
+      "rus": "Тунис",
+      "spa": "Túnez"
+    },
+    "latlng": [
+      34,
+      9
+    ],
+    "demonym": "Tunisian",
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "area": 163610
+  },
+  {
+    "name": {
+      "common": "Uganda",
+      "official": "Republic of Uganda",
+      "native": {
+        "common": "Uganda",
+        "official": "Republic of Uganda"
+      }
+    },
+    "tld": [
+      ".ug"
+    ],
+    "cca2": "UG",
+    "ccn3": "800",
+    "cca3": "UGA",
+    "currency": [
+      "UGX"
+    ],
+    "callingCode": [
+      "256"
+    ],
+    "capital": "Kampala",
+    "altSpellings": [
+      "UG",
+      "Republic of Uganda",
+      "Jamhuri ya Uganda"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "swa",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "translations": {
+      "deu": "Uganda",
+      "fra": "Uganda",
+      "hrv": "Uganda",
+      "ita": "Uganda",
+      "jpn": "ウガンダ",
+      "nld": "Oeganda",
+      "rus": "Уганда",
+      "spa": "Uganda"
+    },
+    "latlng": [
+      1,
+      32
+    ],
+    "demonym": "Ugandan",
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "area": 241550
+  },
+  {
+    "name": {
+      "common": "Western Sahara",
+      "official": "Western Sahara",
+      "native": {
+        "common": "الصحراء الغربية",
+        "official": "Sáhara Occidental"
+      }
+    },
+    "tld": [
+      ".eh"
+    ],
+    "cca2": "EH",
+    "ccn3": "732",
+    "cca3": "ESH",
+    "currency": [
+      "MAD",
+      "DZD",
+      "MRO"
+    ],
+    "callingCode": [
+      "212"
+    ],
+    "capital": "El Aaiún",
+    "altSpellings": [
+      "EH",
+      "Taneẓroft Tutrimt"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "nativeLanguage": "ber",
+    "languages": {
+      "ber": "Berber",
+      "mey": "Hassaniya",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Westsahara",
+      "fra": "Sahara Occidental",
+      "hrv": "Zapadna Sahara",
+      "ita": "Sahara Occidentale",
+      "jpn": "西サハラ",
+      "nld": "Westelijke Sahara",
+      "rus": "Западная Сахара",
+      "spa": "Sahara Occidental"
+    },
+    "latlng": [
+      24.5,
+      -13
+    ],
+    "demonym": "Sahrawi",
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "area": 266000
+  },
+  {
+    "name": {
+      "common": "Zambia",
+      "official": "Republic of Zambia",
+      "native": {
+        "common": "Zambia",
+        "official": "Republic of Zambia"
+      }
+    },
+    "tld": [
+      ".zm"
+    ],
+    "cca2": "ZM",
+    "ccn3": "894",
+    "cca3": "ZMB",
+    "currency": [
+      "ZMK"
+    ],
+    "callingCode": [
+      "260"
+    ],
+    "capital": "Lusaka",
+    "altSpellings": [
+      "ZM",
+      "Republic of Zambia"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Sambia",
+      "fra": "Zambie",
+      "hrv": "Zambija",
+      "ita": "Zambia",
+      "jpn": "ザンビア",
+      "nld": "Zambia",
+      "rus": "Замбия",
+      "spa": "Zambia"
+    },
+    "latlng": [
+      -15,
+      30
+    ],
+    "demonym": "Zambian",
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "area": 752612
+  },
+  {
+    "name": {
+      "common": "Zimbabwe",
+      "official": "Republic of Zimbabwe",
+      "native": {
+        "common": "Zimbabwe",
+        "official": "Republic of Zimbabwe"
+      }
+    },
+    "tld": [
+      ".zw"
+    ],
+    "cca2": "ZW",
+    "ccn3": "716",
+    "cca3": "ZWE",
+    "currency": [
+      "ZWL"
+    ],
+    "callingCode": [
+      "263"
+    ],
+    "capital": "Harare",
+    "altSpellings": [
+      "ZW",
+      "Republic of Zimbabwe"
+    ],
+    "relevance": "0",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "nativeLanguage": "nya",
+    "languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    },
+    "translations": {
+      "deu": "Simbabwe",
+      "fra": "Zimbabwe",
+      "hrv": "Zimbabve",
+      "ita": "Zimbabwe",
+      "jpn": "ジンバブエ",
+      "nld": "Zimbabwe",
+      "rus": "Зимбабве",
+      "spa": "Zimbabue"
+    },
+    "latlng": [
+      -20,
+      30
+    ],
+    "demonym": "Zimbabwean",
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "area": 390757
+  }
+]

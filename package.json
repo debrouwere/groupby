@@ -1,14 +1,17 @@
 {
-  "name": "disperse-cli",
+  "name": "groupby-cli",
   "version": "0.1.0",
   "description": "Split up JSON data into multiple files based on shared characteristics.",
   "main": "lib/index.js",
   "scripts": {
     "test": "make test"
   },
+  "bin": {
+    "groupby": "bin/groupby"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stdbrouw/disperse.git"
+    "url": "https://github.com/stdbrouw/groupby.git"
   },
   "keywords": [
     "json",
@@ -19,7 +22,19 @@
   "author": "Stijn Debrouwere",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stdbrouw/disperse/issues"
+    "url": "https://github.com/stdbrouw/groupby/issues"
   },
-  "homepage": "https://github.com/stdbrouw/disperse"
+  "homepage": "https://github.com/stdbrouw/groupby",
+  "dependencies": {
+    "commander": "2.1.x",
+    "mkdirp": "^0.5.0",
+    "simple-path-expressions": "^1.0.0-rc4",
+    "slug": "^0.6.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
 }

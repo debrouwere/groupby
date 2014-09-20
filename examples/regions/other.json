@@ -1,0 +1,194 @@
+[
+  {
+    "name": {
+      "common": "Antarctica",
+      "official": "Antarctica",
+      "native": {
+        "common": "",
+        "official": ""
+      }
+    },
+    "tld": [
+      ".aq"
+    ],
+    "cca2": "AQ",
+    "ccn3": "010",
+    "cca3": "ATA",
+    "currency": [],
+    "callingCode": [],
+    "capital": "",
+    "altSpellings": [
+      "AQ"
+    ],
+    "relevance": "0",
+    "region": "",
+    "subregion": "",
+    "nativeLanguage": "",
+    "languages": [],
+    "translations": {
+      "cym": "Antarctica",
+      "deu": "Antarktis",
+      "fra": "Antarctique",
+      "hrv": "Antarktika",
+      "ita": "Antartide",
+      "jpn": "南極",
+      "nld": "Antarctica",
+      "rus": "Антарктида",
+      "spa": "Antártida"
+    },
+    "latlng": [
+      -90,
+      0
+    ],
+    "demonym": "",
+    "borders": [],
+    "area": 14000000
+  },
+  {
+    "name": {
+      "common": "Bouvet Island",
+      "official": "Bouvet Island",
+      "native": {
+        "common": "Bouvetøya",
+        "official": "Bouvetøya"
+      }
+    },
+    "tld": [
+      ".bv"
+    ],
+    "cca2": "BV",
+    "ccn3": "074",
+    "cca3": "BVT",
+    "currency": [
+      "NOK"
+    ],
+    "callingCode": [],
+    "capital": "",
+    "altSpellings": [
+      "BV",
+      "Bouvetøya",
+      "Bouvet-øya"
+    ],
+    "relevance": "0",
+    "region": "",
+    "subregion": "",
+    "nativeLanguage": "nor",
+    "languages": {
+      "nor": "Norwegian"
+    },
+    "translations": {
+      "deu": "Bouvetinsel",
+      "fra": "Île Bouvet",
+      "hrv": "Otok Bouvet",
+      "ita": "Isola Bouvet",
+      "jpn": "ブーベ島",
+      "nld": "Bouveteiland",
+      "rus": "Остров Буве",
+      "spa": "Isla Bouvet"
+    },
+    "latlng": [
+      -54.43333333,
+      3.4
+    ],
+    "demonym": "",
+    "borders": [],
+    "area": 49
+  },
+  {
+    "name": {
+      "common": "French Southern and Antarctic Lands",
+      "official": "Territory of the French Southern and Antarctic Lands",
+      "native": {
+        "common": "Territoire des Terres australes et antarctiques françaises",
+        "official": "Territoire du Sud françaises et des terres de l'Antarctique"
+      }
+    },
+    "tld": [
+      ".tf"
+    ],
+    "cca2": "TF",
+    "ccn3": "260",
+    "cca3": "ATF",
+    "currency": [
+      "EUR"
+    ],
+    "callingCode": [],
+    "capital": "Port-aux-Français",
+    "altSpellings": [
+      "TF"
+    ],
+    "relevance": "0",
+    "region": "",
+    "subregion": "",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Französische Süd- und Antarktisgebiete",
+      "fra": "Terres australes et antarctiques françaises",
+      "hrv": "Francuski južni i antarktički teritoriji",
+      "ita": "Territori Francesi del Sud",
+      "jpn": "フランス領南方・南極地域",
+      "nld": "Franse Gebieden in de zuidelijke Indische Oceaan",
+      "rus": "Французские Южные и Антарктические территории",
+      "spa": "Tierras Australes y Antárticas Francesas"
+    },
+    "latlng": [
+      -49.25,
+      69.167
+    ],
+    "demonym": "French",
+    "borders": [],
+    "area": 7747
+  },
+  {
+    "name": {
+      "common": "Heard Island and McDonald Islands",
+      "official": "Heard Island and McDonald Islands",
+      "native": {
+        "common": "Heard Island and McDonald Islands",
+        "official": "Heard Island and McDonald Islands"
+      }
+    },
+    "tld": [
+      ".hm",
+      ".aq"
+    ],
+    "cca2": "HM",
+    "ccn3": "334",
+    "cca3": "HMD",
+    "currency": [
+      "AUD"
+    ],
+    "callingCode": [],
+    "capital": "",
+    "altSpellings": [
+      "HM"
+    ],
+    "relevance": "0",
+    "region": "",
+    "subregion": "",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Heard und die McDonaldinseln",
+      "fra": "Îles Heard-et-MacDonald",
+      "hrv": "Otok Heard i otočje McDonald",
+      "ita": "Isole Heard e McDonald",
+      "jpn": "ハード島とマクドナルド諸島",
+      "nld": "Heard- en McDonaldeilanden",
+      "rus": "Остров Херд и острова Макдональд",
+      "spa": "Islas Heard y McDonald"
+    },
+    "latlng": [
+      -53.1,
+      72.51666666
+    ],
+    "demonym": "Heard and McDonald Islander",
+    "borders": [],
+    "area": 412
+  }
+]

@@ -1,0 +1,3068 @@
+[
+  {
+    "name": {
+      "common": "Anguilla",
+      "official": "Anguilla",
+      "native": {
+        "common": "Anguilla",
+        "official": "Anguilla"
+      }
+    },
+    "tld": [
+      ".ai"
+    ],
+    "cca2": "AI",
+    "ccn3": "660",
+    "cca3": "AIA",
+    "currency": [
+      "XCD"
+    ],
+    "callingCode": [
+      "1264"
+    ],
+    "capital": "The Valley",
+    "altSpellings": [
+      "AI"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Anguilla",
+      "fra": "Anguilla",
+      "hrv": "Angvila",
+      "ita": "Anguilla",
+      "jpn": "アンギラ",
+      "nld": "Anguilla",
+      "rus": "Ангилья",
+      "spa": "Anguilla"
+    },
+    "latlng": [
+      18.25,
+      -63.16666666
+    ],
+    "demonym": "Anguillian",
+    "borders": [],
+    "area": 91
+  },
+  {
+    "name": {
+      "common": "Antigua and Barbuda",
+      "official": "Antigua and Barbuda",
+      "native": {
+        "common": "Antigua and Barbuda",
+        "official": "Antigua and Barbuda"
+      }
+    },
+    "tld": [
+      ".ag"
+    ],
+    "cca2": "AG",
+    "ccn3": "028",
+    "cca3": "ATG",
+    "currency": [
+      "XCD"
+    ],
+    "callingCode": [
+      "1268"
+    ],
+    "capital": "Saint John's",
+    "altSpellings": [
+      "AG"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Antigwa a Barbiwda",
+      "deu": "Antigua und Barbuda",
+      "fra": "Antigua-et-Barbuda",
+      "hrv": "Antigva i Barbuda",
+      "ita": "Antigua e Barbuda",
+      "jpn": "アンティグア・バーブーダ",
+      "nld": "Antigua en Barbuda",
+      "rus": "Антигуа и Барбуда",
+      "spa": "Antigua y Barbuda"
+    },
+    "latlng": [
+      17.05,
+      -61.8
+    ],
+    "demonym": "Antiguan, Barbudan",
+    "borders": [],
+    "area": 442
+  },
+  {
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic",
+      "native": {
+        "common": "Argentina",
+        "official": "República Argentina"
+      }
+    },
+    "tld": [
+      ".ar"
+    ],
+    "cca2": "AR",
+    "ccn3": "032",
+    "cca3": "ARG",
+    "currency": [
+      "ARS"
+    ],
+    "callingCode": [
+      "54"
+    ],
+    "capital": "Buenos Aires",
+    "altSpellings": [
+      "AR",
+      "Argentine Republic",
+      "República Argentina"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Ariannin",
+      "deu": "Argentinien",
+      "fra": "Argentine",
+      "hrv": "Argentina",
+      "ita": "Argentina",
+      "jpn": "アルゼンチン",
+      "nld": "Argentinië",
+      "rus": "Аргентина",
+      "spa": "Argentina"
+    },
+    "latlng": [
+      -34,
+      -64
+    ],
+    "demonym": "Argentinean",
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "area": 2780400
+  },
+  {
+    "name": {
+      "common": "Aruba",
+      "official": "Aruba",
+      "native": {
+        "common": "Aruba",
+        "official": "Aruba"
+      }
+    },
+    "tld": [
+      ".aw"
+    ],
+    "cca2": "AW",
+    "ccn3": "533",
+    "cca3": "ABW",
+    "currency": [
+      "AWG"
+    ],
+    "callingCode": [
+      "297"
+    ],
+    "capital": "Oranjestad",
+    "altSpellings": [
+      "AW"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "nld",
+    "languages": {
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "translations": {
+      "deu": "Aruba",
+      "fra": "Aruba",
+      "hrv": "Aruba",
+      "ita": "Aruba",
+      "jpn": "アルバ",
+      "nld": "Aruba",
+      "rus": "Аруба",
+      "spa": "Aruba"
+    },
+    "latlng": [
+      12.5,
+      -69.96666666
+    ],
+    "demonym": "Aruban",
+    "borders": [],
+    "area": 180
+  },
+  {
+    "name": {
+      "common": "Bahamas",
+      "official": "Commonwealth of the Bahamas",
+      "native": {
+        "common": "Bahamas",
+        "official": "Commonwealth of the Bahamas"
+      }
+    },
+    "tld": [
+      ".bs"
+    ],
+    "cca2": "BS",
+    "ccn3": "044",
+    "cca3": "BHS",
+    "currency": [
+      "BSD"
+    ],
+    "callingCode": [
+      "1242"
+    ],
+    "capital": "Nassau",
+    "altSpellings": [
+      "BS",
+      "Commonwealth of the Bahamas"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Bahamas",
+      "deu": "Bahamas",
+      "fra": "Bahamas",
+      "hrv": "Bahami",
+      "ita": "Bahamas",
+      "jpn": "バハマ",
+      "nld": "Bahama’s",
+      "rus": "Багамские Острова",
+      "spa": "Bahamas"
+    },
+    "latlng": [
+      24.25,
+      -76
+    ],
+    "demonym": "Bahamian",
+    "borders": [],
+    "area": 13943
+  },
+  {
+    "name": {
+      "common": "Barbados",
+      "official": "Barbados",
+      "native": {
+        "common": "Barbados",
+        "official": "Barbados"
+      }
+    },
+    "tld": [
+      ".bb"
+    ],
+    "cca2": "BB",
+    "ccn3": "052",
+    "cca3": "BRB",
+    "currency": [
+      "BBD"
+    ],
+    "callingCode": [
+      "1246"
+    ],
+    "capital": "Bridgetown",
+    "altSpellings": [
+      "BB"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Barbados",
+      "deu": "Barbados",
+      "fra": "Barbade",
+      "hrv": "Barbados",
+      "ita": "Barbados",
+      "jpn": "バルバドス",
+      "nld": "Barbados",
+      "rus": "Барбадос",
+      "spa": "Barbados"
+    },
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "demonym": "Barbadian",
+    "borders": [],
+    "area": 430
+  },
+  {
+    "name": {
+      "common": "Belize",
+      "official": "Belize",
+      "native": {
+        "common": "Belize",
+        "official": "Belize"
+      }
+    },
+    "tld": [
+      ".bz"
+    ],
+    "cca2": "BZ",
+    "ccn3": "084",
+    "cca3": "BLZ",
+    "currency": [
+      "BZD"
+    ],
+    "callingCode": [
+      "501"
+    ],
+    "capital": "Belmopan",
+    "altSpellings": [
+      "BZ"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Central America",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Belize",
+      "deu": "Belize",
+      "fra": "Belize",
+      "hrv": "Belize",
+      "ita": "Belize",
+      "jpn": "ベリーズ",
+      "nld": "Belize",
+      "rus": "Белиз",
+      "spa": "Belice"
+    },
+    "latlng": [
+      17.25,
+      -88.75
+    ],
+    "demonym": "Belizean",
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "area": 22966
+  },
+  {
+    "name": {
+      "common": "Bermuda",
+      "official": "Bermuda",
+      "native": {
+        "common": "Bermuda",
+        "official": "Bermuda"
+      }
+    },
+    "tld": [
+      ".bm"
+    ],
+    "cca2": "BM",
+    "ccn3": "060",
+    "cca3": "BMU",
+    "currency": [
+      "BMD"
+    ],
+    "callingCode": [
+      "1441"
+    ],
+    "capital": "Hamilton",
+    "altSpellings": [
+      "BM",
+      "The Islands of Bermuda",
+      "The Bermudas",
+      "Somers Isles"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Bermiwda",
+      "deu": "Bermuda",
+      "fra": "Bermudes",
+      "hrv": "Bermudi",
+      "ita": "Bermuda",
+      "jpn": "バミューダ",
+      "nld": "Bermuda",
+      "rus": "Бермудские Острова",
+      "spa": "Bermudas"
+    },
+    "latlng": [
+      32.33333333,
+      -64.75
+    ],
+    "demonym": "Bermudian",
+    "borders": [],
+    "area": 54
+  },
+  {
+    "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia",
+      "native": {
+        "common": "Bolivia",
+        "official": "Estado Plurinacional de Bolivia"
+      }
+    },
+    "tld": [
+      ".bo"
+    ],
+    "cca2": "BO",
+    "ccn3": "068",
+    "cca3": "BOL",
+    "currency": [
+      "BOB",
+      "BOV"
+    ],
+    "callingCode": [
+      "591"
+    ],
+    "capital": "Sucre",
+    "altSpellings": [
+      "BO",
+      "Buliwya",
+      "Wuliwya",
+      "Plurinational State of Bolivia",
+      "Estado Plurinacional de Bolivia",
+      "Buliwya Mamallaqta",
+      "Wuliwya Suyu",
+      "Tetã Volívia"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaraní",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Bolifia",
+      "deu": "Bolivien",
+      "fra": "Bolivie",
+      "hrv": "Bolivija",
+      "ita": "Bolivia",
+      "jpn": "ボリビア多民族国",
+      "nld": "Bolivia",
+      "rus": "Боливия",
+      "spa": "Bolivia"
+    },
+    "latlng": [
+      -17,
+      -65
+    ],
+    "demonym": "Bolivian",
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "area": 1098581
+  },
+  {
+    "name": {
+      "common": "Bonaire",
+      "official": "Bonaire",
+      "native": {
+        "common": "Bonaire",
+        "official": "Bonaire"
+      }
+    },
+    "tld": [
+      ".an",
+      ".nl"
+    ],
+    "cca2": "BQ",
+    "ccn3": "535",
+    "cca3": "BES",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "5997"
+    ],
+    "capital": "Kralendijk",
+    "altSpellings": [
+      "BQ",
+      "Boneiru"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "nld",
+    "languages": {
+      "nld": "Dutch"
+    },
+    "translations": {
+      "rus": "Бонэйр"
+    },
+    "latlng": [
+      12.15,
+      -68.266667
+    ],
+    "demonym": "Dutch",
+    "borders": [],
+    "area": 294
+  },
+  {
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil",
+      "native": {
+        "common": "Brasil",
+        "official": "República Federativa do Brasil"
+      }
+    },
+    "tld": [
+      ".br"
+    ],
+    "cca2": "BR",
+    "ccn3": "076",
+    "cca3": "BRA",
+    "currency": [
+      "BRL"
+    ],
+    "callingCode": [
+      "55"
+    ],
+    "capital": "Brasília",
+    "altSpellings": [
+      "BR",
+      "Brasil",
+      "Federative Republic of Brazil",
+      "República Federativa do Brasil"
+    ],
+    "relevance": "2",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "por",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "cym": "Brasil",
+      "deu": "Brasilien",
+      "fra": "Brésil",
+      "hrv": "Brazil",
+      "ita": "Brasile",
+      "jpn": "ブラジル",
+      "nld": "Brazilië",
+      "rus": "Бразилия",
+      "spa": "Brasil"
+    },
+    "latlng": [
+      -10,
+      -55
+    ],
+    "demonym": "Brazilian",
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "area": 8515767
+  },
+  {
+    "name": {
+      "common": "British Virgin Islands",
+      "official": "Virgin Islands",
+      "native": {
+        "common": "British Virgin Islands",
+        "official": "Virgin Islands"
+      }
+    },
+    "tld": [
+      ".vg"
+    ],
+    "cca2": "VG",
+    "ccn3": "092",
+    "cca3": "VGB",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "1284"
+    ],
+    "capital": "Road Town",
+    "altSpellings": [
+      "VG"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Britische Jungferninseln",
+      "fra": "Îles Vierges britanniques",
+      "hrv": "Britanski Djevičanski Otoci",
+      "ita": "Isole Vergini Britanniche",
+      "jpn": "イギリス領ヴァージン諸島",
+      "nld": "Britse Maagdeneilanden",
+      "rus": "Британские Виргинские острова",
+      "spa": "Islas Vírgenes del Reino Unido"
+    },
+    "latlng": [
+      18.431383,
+      -64.62305
+    ],
+    "demonym": "Virgin Islander",
+    "borders": [],
+    "area": 151
+  },
+  {
+    "name": {
+      "common": "Canada",
+      "official": "Canada",
+      "native": {
+        "common": "Canada",
+        "official": "Canada"
+      }
+    },
+    "tld": [
+      ".ca"
+    ],
+    "cca2": "CA",
+    "ccn3": "124",
+    "cca3": "CAN",
+    "currency": [
+      "CAD"
+    ],
+    "callingCode": [
+      "1"
+    ],
+    "capital": "Ottawa",
+    "altSpellings": [
+      "CA"
+    ],
+    "relevance": "2",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "translations": {
+      "cym": "Canada",
+      "deu": "Kanada",
+      "fra": "Canada",
+      "hrv": "Kanada",
+      "ita": "Canada",
+      "jpn": "カナダ",
+      "nld": "Canada",
+      "rus": "Канада",
+      "spa": "Canadá"
+    },
+    "latlng": [
+      60,
+      -95
+    ],
+    "demonym": "Canadian",
+    "borders": [
+      "USA"
+    ],
+    "area": 9984670
+  },
+  {
+    "name": {
+      "common": "Cayman Islands",
+      "official": "Cayman Islands",
+      "native": {
+        "common": "Cayman Islands",
+        "official": "Cayman Islands"
+      }
+    },
+    "tld": [
+      ".ky"
+    ],
+    "cca2": "KY",
+    "ccn3": "136",
+    "cca3": "CYM",
+    "currency": [
+      "KYD"
+    ],
+    "callingCode": [
+      "1345"
+    ],
+    "capital": "George Town",
+    "altSpellings": [
+      "KY"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Ynysoedd_Cayman",
+      "deu": "Kaimaninseln",
+      "fra": "Îles Caïmans",
+      "hrv": "Kajmanski otoci",
+      "ita": "Isole Cayman",
+      "jpn": "ケイマン諸島",
+      "nld": "Caymaneilanden",
+      "rus": "Каймановы острова",
+      "spa": "Islas Caimán"
+    },
+    "latlng": [
+      19.5,
+      -80.5
+    ],
+    "demonym": "Caymanian",
+    "borders": [],
+    "area": 264
+  },
+  {
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile",
+      "native": {
+        "common": "Chile",
+        "official": "República de Chile"
+      }
+    },
+    "tld": [
+      ".cl"
+    ],
+    "cca2": "CL",
+    "ccn3": "152",
+    "cca3": "CHL",
+    "currency": [
+      "CLF",
+      "CLP"
+    ],
+    "callingCode": [
+      "56"
+    ],
+    "capital": "Santiago",
+    "altSpellings": [
+      "CL",
+      "Republic of Chile",
+      "República de Chile"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Chile",
+      "deu": "Chile",
+      "fra": "Chili",
+      "hrv": "Čile",
+      "ita": "Cile",
+      "jpn": "チリ",
+      "nld": "Chili",
+      "rus": "Чили",
+      "spa": "Chile"
+    },
+    "latlng": [
+      -30,
+      -71
+    ],
+    "demonym": "Chilean",
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "area": 756102
+  },
+  {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia",
+      "native": {
+        "common": "Colombia",
+        "official": "República de Colombia"
+      }
+    },
+    "tld": [
+      ".co"
+    ],
+    "cca2": "CO",
+    "ccn3": "170",
+    "cca3": "COL",
+    "currency": [
+      "COP"
+    ],
+    "callingCode": [
+      "57"
+    ],
+    "capital": "Bogotá",
+    "altSpellings": [
+      "CO",
+      "Republic of Colombia",
+      "República de Colombia"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Colombia",
+      "deu": "Kolumbien",
+      "fra": "Colombie",
+      "hrv": "Kolumbija",
+      "ita": "Colombia",
+      "jpn": "コロンビア",
+      "nld": "Colombia",
+      "rus": "Колумбия",
+      "spa": "Colombia"
+    },
+    "latlng": [
+      4,
+      -72
+    ],
+    "demonym": "Colombian",
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "area": 1141748
+  },
+  {
+    "name": {
+      "common": "Costa Rica",
+      "official": "Republic of Costa Rica",
+      "native": {
+        "common": "Costa Rica",
+        "official": "República de Costa Rica"
+      }
+    },
+    "tld": [
+      ".cr"
+    ],
+    "cca2": "CR",
+    "ccn3": "188",
+    "cca3": "CRI",
+    "currency": [
+      "CRC"
+    ],
+    "callingCode": [
+      "506"
+    ],
+    "capital": "San José",
+    "altSpellings": [
+      "CR",
+      "Republic of Costa Rica",
+      "República de Costa Rica"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Central America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Costa Rica",
+      "deu": "Costa Rica",
+      "fra": "Costa Rica",
+      "hrv": "Kostarika",
+      "ita": "Costa Rica",
+      "jpn": "コスタリカ",
+      "nld": "Costa Rica",
+      "rus": "Коста-Рика",
+      "spa": "Costa Rica"
+    },
+    "latlng": [
+      10,
+      -84
+    ],
+    "demonym": "Costa Rican",
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "area": 51100
+  },
+  {
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba",
+      "native": {
+        "common": "Cuba",
+        "official": "República de Cuba"
+      }
+    },
+    "tld": [
+      ".cu"
+    ],
+    "cca2": "CU",
+    "ccn3": "192",
+    "cca3": "CUB",
+    "currency": [
+      "CUC",
+      "CUP"
+    ],
+    "callingCode": [
+      "53"
+    ],
+    "capital": "Havana",
+    "altSpellings": [
+      "CU",
+      "Republic of Cuba",
+      "República de Cuba"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Ciwba",
+      "deu": "Kuba",
+      "fra": "Cuba",
+      "hrv": "Kuba",
+      "ita": "Cuba",
+      "jpn": "キューバ",
+      "nld": "Cuba",
+      "rus": "Куба",
+      "spa": "Cuba"
+    },
+    "latlng": [
+      21.5,
+      -80
+    ],
+    "demonym": "Cuban",
+    "borders": [],
+    "area": 109884
+  },
+  {
+    "name": {
+      "common": "Curaçao",
+      "official": "Country of Curaçao",
+      "native": {
+        "common": "Curaçao",
+        "official": "Land Curaçao"
+      }
+    },
+    "tld": [
+      ".cw"
+    ],
+    "cca2": "CW",
+    "ccn3": "531",
+    "cca3": "CUW",
+    "currency": [
+      "ANG"
+    ],
+    "callingCode": [
+      "5999"
+    ],
+    "capital": "Willemstad",
+    "altSpellings": [
+      "CW",
+      "Curacao",
+      "Kòrsou",
+      "Country of Curaçao",
+      "Land Curaçao",
+      "Pais Kòrsou"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "nld",
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "translations": {
+      "nld": "Curaçao",
+      "rus": "Кюрасао"
+    },
+    "latlng": [
+      12.116667,
+      -68.933333
+    ],
+    "demonym": "Dutch",
+    "borders": [],
+    "area": 444
+  },
+  {
+    "name": {
+      "common": "Dominica",
+      "official": "Commonwealth of Dominica",
+      "native": {
+        "common": "Dominica",
+        "official": "Commonwealth of Dominica"
+      }
+    },
+    "tld": [
+      ".dm"
+    ],
+    "cca2": "DM",
+    "ccn3": "212",
+    "cca3": "DMA",
+    "currency": [
+      "XCD"
+    ],
+    "callingCode": [
+      "1767"
+    ],
+    "capital": "Roseau",
+    "altSpellings": [
+      "DM",
+      "Dominique",
+      "Wai‘tu kubuli",
+      "Commonwealth of Dominica"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Dominica",
+      "deu": "Dominica",
+      "fra": "Dominique",
+      "hrv": "Dominika",
+      "ita": "Dominica",
+      "jpn": "ドミニカ国",
+      "nld": "Dominica",
+      "rus": "Доминика",
+      "spa": "Dominica"
+    },
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "demonym": "Dominican",
+    "borders": [],
+    "area": 751
+  },
+  {
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic",
+      "native": {
+        "common": "República Dominicana",
+        "official": "República Dominicana"
+      }
+    },
+    "tld": [
+      ".do"
+    ],
+    "cca2": "DO",
+    "ccn3": "214",
+    "cca3": "DOM",
+    "currency": [
+      "DOP"
+    ],
+    "callingCode": [
+      "1809",
+      "1829",
+      "1849"
+    ],
+    "capital": "Santo Domingo",
+    "altSpellings": [
+      "DO"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Gweriniaeth_Dominica",
+      "deu": "Dominikanische Republik",
+      "fra": "République dominicaine",
+      "hrv": "Dominikanska Republika",
+      "ita": "Repubblica Dominicana",
+      "jpn": "ドミニカ共和国",
+      "nld": "Dominicaanse Republiek",
+      "rus": "Доминиканская Республика",
+      "spa": "República Dominicana"
+    },
+    "latlng": [
+      19,
+      -70.66666666
+    ],
+    "demonym": "Dominican",
+    "borders": [
+      "HTI"
+    ],
+    "area": 48671
+  },
+  {
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador",
+      "native": {
+        "common": "Ecuador",
+        "official": "República del Ecuador"
+      }
+    },
+    "tld": [
+      ".ec"
+    ],
+    "cca2": "EC",
+    "ccn3": "218",
+    "cca3": "ECU",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "593"
+    ],
+    "capital": "Quito",
+    "altSpellings": [
+      "EC",
+      "Republic of Ecuador",
+      "República del Ecuador"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "Ecwador",
+      "deu": "Ecuador",
+      "fra": "Équateur",
+      "hrv": "Ekvador",
+      "ita": "Ecuador",
+      "jpn": "エクアドル",
+      "nld": "Ecuador",
+      "rus": "Эквадор",
+      "spa": "Ecuador"
+    },
+    "latlng": [
+      -2,
+      -77.5
+    ],
+    "demonym": "Ecuadorean",
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "area": 276841
+  },
+  {
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador",
+      "native": {
+        "common": "El Salvador",
+        "official": "República de El Salvador"
+      }
+    },
+    "tld": [
+      ".sv"
+    ],
+    "cca2": "SV",
+    "ccn3": "222",
+    "cca3": "SLV",
+    "currency": [
+      "SVC",
+      "USD"
+    ],
+    "callingCode": [
+      "503"
+    ],
+    "capital": "San Salvador",
+    "altSpellings": [
+      "SV",
+      "Republic of El Salvador",
+      "República de El Salvador"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Central America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "cym": "El Salvador",
+      "deu": "El Salvador",
+      "fra": "Salvador",
+      "hrv": "Salvador",
+      "ita": "El Salvador",
+      "jpn": "エルサルバドル",
+      "nld": "El Salvador",
+      "rus": "Сальвадор",
+      "spa": "El Salvador"
+    },
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "demonym": "Salvadoran",
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "area": 21041
+  },
+  {
+    "name": {
+      "common": "Falkland Islands",
+      "official": "Falkland Islands",
+      "native": {
+        "common": "Falkland Islands",
+        "official": "Falkland Islands"
+      }
+    },
+    "tld": [
+      ".fk"
+    ],
+    "cca2": "FK",
+    "ccn3": "238",
+    "cca3": "FLK",
+    "currency": [
+      "FKP"
+    ],
+    "callingCode": [
+      "500"
+    ],
+    "capital": "Stanley",
+    "altSpellings": [
+      "FK",
+      "Islas Malvinas"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Falklandinseln",
+      "fra": "Îles Malouines",
+      "hrv": "Falklandski Otoci",
+      "ita": "Isole Falkland o Isole Malvine",
+      "jpn": "フォークランド（マルビナス）諸島",
+      "nld": "Falklandeilanden",
+      "rus": "Фолклендские острова",
+      "spa": "Islas Malvinas"
+    },
+    "latlng": [
+      -51.75,
+      -59
+    ],
+    "demonym": "Falkland Islander",
+    "borders": [],
+    "area": 12173
+  },
+  {
+    "name": {
+      "common": "French Guiana",
+      "official": "Guiana",
+      "native": {
+        "common": "Guyane française",
+        "official": "Guyanes"
+      }
+    },
+    "tld": [
+      ".gf"
+    ],
+    "cca2": "GF",
+    "ccn3": "254",
+    "cca3": "GUF",
+    "currency": [
+      "EUR"
+    ],
+    "callingCode": [
+      "594"
+    ],
+    "capital": "Cayenne",
+    "altSpellings": [
+      "GF",
+      "Guiana",
+      "Guyane"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Französisch Guyana",
+      "fra": "Guayane",
+      "hrv": "Francuska Gvajana",
+      "ita": "Guyana francese",
+      "jpn": "フランス領ギアナ",
+      "nld": "Frans-Guyana",
+      "rus": "Французская Гвиана",
+      "spa": "Guayana Francesa"
+    },
+    "latlng": [
+      4,
+      -53
+    ],
+    "demonym": "",
+    "borders": [
+      "BRA",
+      "SUR"
+    ],
+    "area": 83534
+  },
+  {
+    "name": {
+      "common": "Greenland",
+      "official": "Greenland",
+      "native": {
+        "common": "Kalaallit Nunaat",
+        "official": "Kalaallit Nunaat"
+      }
+    },
+    "tld": [
+      ".gl"
+    ],
+    "cca2": "GL",
+    "ccn3": "304",
+    "cca3": "GRL",
+    "currency": [
+      "DKK"
+    ],
+    "callingCode": [
+      "299"
+    ],
+    "capital": "Nuuk",
+    "altSpellings": [
+      "GL",
+      "Grønland"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "nativeLanguage": "kal",
+    "languages": {
+      "kal": "Greenlandic"
+    },
+    "translations": {
+      "deu": "Grönland",
+      "fra": "Groenland",
+      "hrv": "Grenland",
+      "ita": "Groenlandia",
+      "jpn": "グリーンランド",
+      "nld": "Groenland",
+      "rus": "Гренландия",
+      "spa": "Groenlandia"
+    },
+    "latlng": [
+      72,
+      -40
+    ],
+    "demonym": "Greenlandic",
+    "borders": [],
+    "area": 2166086
+  },
+  {
+    "name": {
+      "common": "Grenada",
+      "official": "Grenada",
+      "native": {
+        "common": "Grenada",
+        "official": "Grenada"
+      }
+    },
+    "tld": [
+      ".gd"
+    ],
+    "cca2": "GD",
+    "ccn3": "308",
+    "cca3": "GRD",
+    "currency": [
+      "XCD"
+    ],
+    "callingCode": [
+      "1473"
+    ],
+    "capital": "St. George's",
+    "altSpellings": [
+      "GD"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Grenada",
+      "fra": "Grenade",
+      "hrv": "Grenada",
+      "ita": "Grenada",
+      "jpn": "グレナダ",
+      "nld": "Grenada",
+      "rus": "Гренада",
+      "spa": "Grenada"
+    },
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "demonym": "Grenadian",
+    "borders": [],
+    "area": 344
+  },
+  {
+    "name": {
+      "common": "Guadeloupe",
+      "official": "Guadeloupe",
+      "native": {
+        "common": "Guadeloupe",
+        "official": "Guadeloupe"
+      }
+    },
+    "tld": [
+      ".gp"
+    ],
+    "cca2": "GP",
+    "ccn3": "312",
+    "cca3": "GLP",
+    "currency": [
+      "EUR"
+    ],
+    "callingCode": [
+      "590"
+    ],
+    "capital": "Basse-Terre",
+    "altSpellings": [
+      "GP",
+      "Gwadloup"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Guadeloupe",
+      "fra": "Guadeloupe",
+      "hrv": "Gvadalupa",
+      "ita": "Guadeloupa",
+      "jpn": "グアドループ",
+      "nld": "Guadeloupe",
+      "rus": "Гваделупа",
+      "spa": "Guadalupe"
+    },
+    "latlng": [
+      16.25,
+      -61.583333
+    ],
+    "demonym": "Guadeloupian",
+    "borders": [],
+    "area": 1628
+  },
+  {
+    "name": {
+      "common": "Guatemala",
+      "official": "Republic of Guatemala",
+      "native": {
+        "common": "Guatemala",
+        "official": "República de Guatemala"
+      }
+    },
+    "tld": [
+      ".gt"
+    ],
+    "cca2": "GT",
+    "ccn3": "320",
+    "cca3": "GTM",
+    "currency": [
+      "GTQ"
+    ],
+    "callingCode": [
+      "502"
+    ],
+    "capital": "Guatemala City",
+    "altSpellings": [
+      "GT"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Central America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Guatemala",
+      "fra": "Guatemala",
+      "hrv": "Gvatemala",
+      "ita": "Guatemala",
+      "jpn": "グアテマラ",
+      "nld": "Guatemala",
+      "rus": "Гватемала",
+      "spa": "Guatemala"
+    },
+    "latlng": [
+      15.5,
+      -90.25
+    ],
+    "demonym": "Guatemalan",
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "area": 108889
+  },
+  {
+    "name": {
+      "common": "Guyana",
+      "official": "Co-operative Republic of Guyana",
+      "native": {
+        "common": "Guyana",
+        "official": "Co-operative Republic of Guyana"
+      }
+    },
+    "tld": [
+      ".gy"
+    ],
+    "cca2": "GY",
+    "ccn3": "328",
+    "cca3": "GUY",
+    "currency": [
+      "GYD"
+    ],
+    "callingCode": [
+      "592"
+    ],
+    "capital": "Georgetown",
+    "altSpellings": [
+      "GY",
+      "Co-operative Republic of Guyana"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Guyana",
+      "fra": "Guyane",
+      "hrv": "Gvajana",
+      "ita": "Guyana",
+      "jpn": "ガイアナ",
+      "nld": "Guyana",
+      "rus": "Гайана",
+      "spa": "Guyana"
+    },
+    "latlng": [
+      5,
+      -59
+    ],
+    "demonym": "Guyanese",
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "area": 214969
+  },
+  {
+    "name": {
+      "common": "Haiti",
+      "official": "Republic of Haiti",
+      "native": {
+        "common": "Haïti",
+        "official": "République d'Haïti"
+      }
+    },
+    "tld": [
+      ".ht"
+    ],
+    "cca2": "HT",
+    "ccn3": "332",
+    "cca3": "HTI",
+    "currency": [
+      "HTG",
+      "USD"
+    ],
+    "callingCode": [
+      "509"
+    ],
+    "capital": "Port-au-Prince",
+    "altSpellings": [
+      "HT",
+      "Republic of Haiti",
+      "République d'Haïti",
+      "Repiblik Ayiti"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French",
+      "hat": "Haitian Creole"
+    },
+    "translations": {
+      "deu": "Haiti",
+      "fra": "Haïti",
+      "hrv": "Haiti",
+      "ita": "Haiti",
+      "jpn": "ハイチ",
+      "nld": "Haïti",
+      "rus": "Гаити",
+      "spa": "Haiti"
+    },
+    "latlng": [
+      19,
+      -72.41666666
+    ],
+    "demonym": "Haitian",
+    "borders": [
+      "DOM"
+    ],
+    "area": 27750
+  },
+  {
+    "name": {
+      "common": "Honduras",
+      "official": "Republic of Honduras",
+      "native": {
+        "common": "Honduras",
+        "official": "República de Honduras"
+      }
+    },
+    "tld": [
+      ".hn"
+    ],
+    "cca2": "HN",
+    "ccn3": "340",
+    "cca3": "HND",
+    "currency": [
+      "HNL"
+    ],
+    "callingCode": [
+      "504"
+    ],
+    "capital": "Tegucigalpa",
+    "altSpellings": [
+      "HN",
+      "Republic of Honduras",
+      "República de Honduras"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Central America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Honduras",
+      "fra": "Honduras",
+      "hrv": "Honduras",
+      "ita": "Honduras",
+      "jpn": "ホンジュラス",
+      "nld": "Honduras",
+      "rus": "Гондурас",
+      "spa": "Honduras"
+    },
+    "latlng": [
+      15,
+      -86.5
+    ],
+    "demonym": "Honduran",
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "area": 112492
+  },
+  {
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica",
+      "native": {
+        "common": "Jamaica",
+        "official": "Jamaica"
+      }
+    },
+    "tld": [
+      ".jm"
+    ],
+    "cca2": "JM",
+    "ccn3": "388",
+    "cca3": "JAM",
+    "currency": [
+      "JMD"
+    ],
+    "callingCode": [
+      "1876"
+    ],
+    "capital": "Kingston",
+    "altSpellings": [
+      "JM"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "jam": "Jamaican Patois"
+    },
+    "translations": {
+      "deu": "Jamaika",
+      "fra": "Jamaïque",
+      "hrv": "Jamajka",
+      "ita": "Giamaica",
+      "jpn": "ジャマイカ",
+      "nld": "Jamaica",
+      "rus": "Ямайка",
+      "spa": "Jamaica"
+    },
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "demonym": "Jamaican",
+    "borders": [],
+    "area": 10991
+  },
+  {
+    "name": {
+      "common": "Martinique",
+      "official": "Martinique",
+      "native": {
+        "common": "Martinique",
+        "official": "Martinique"
+      }
+    },
+    "tld": [
+      ".mq"
+    ],
+    "cca2": "MQ",
+    "ccn3": "474",
+    "cca3": "MTQ",
+    "currency": [
+      "EUR"
+    ],
+    "callingCode": [
+      "596"
+    ],
+    "capital": "Fort-de-France",
+    "altSpellings": [
+      "MQ"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Martinique",
+      "fra": "Martinique",
+      "hrv": "Martinique",
+      "ita": "Martinica",
+      "jpn": "マルティニーク",
+      "nld": "Martinique",
+      "rus": "Мартиника",
+      "spa": "Martinica"
+    },
+    "latlng": [
+      14.666667,
+      -61
+    ],
+    "demonym": "French",
+    "borders": [],
+    "area": 1128
+  },
+  {
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States",
+      "native": {
+        "common": "México",
+        "official": "Estados Unidos Mexicanos"
+      }
+    },
+    "tld": [
+      ".mx"
+    ],
+    "cca2": "MX",
+    "ccn3": "484",
+    "cca3": "MEX",
+    "currency": [
+      "MXN"
+    ],
+    "callingCode": [
+      "52"
+    ],
+    "capital": "Mexico City",
+    "altSpellings": [
+      "MX",
+      "Mexicanos",
+      "United Mexican States",
+      "Estados Unidos Mexicanos"
+    ],
+    "relevance": "1.5",
+    "region": "Americas",
+    "subregion": "Central America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Mexiko",
+      "fra": "Mexique",
+      "hrv": "Meksiko",
+      "ita": "Messico",
+      "jpn": "メキシコ",
+      "nld": "Mexico",
+      "rus": "Мексика",
+      "spa": "México"
+    },
+    "latlng": [
+      23,
+      -102
+    ],
+    "demonym": "Mexican",
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "area": 1964375
+  },
+  {
+    "name": {
+      "common": "Montserrat",
+      "official": "Montserrat",
+      "native": {
+        "common": "Montserrat",
+        "official": "Montserrat"
+      }
+    },
+    "tld": [
+      ".ms"
+    ],
+    "cca2": "MS",
+    "ccn3": "500",
+    "cca3": "MSR",
+    "currency": [
+      "XCD"
+    ],
+    "callingCode": [
+      "1664"
+    ],
+    "capital": "Plymouth",
+    "altSpellings": [
+      "MS"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Montserrat",
+      "fra": "Montserrat",
+      "hrv": "Montserrat",
+      "ita": "Montserrat",
+      "jpn": "モントセラト",
+      "nld": "Montserrat",
+      "rus": "Монтсеррат",
+      "spa": "Montserrat"
+    },
+    "latlng": [
+      16.75,
+      -62.2
+    ],
+    "demonym": "Montserratian",
+    "borders": [],
+    "area": 102
+  },
+  {
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua",
+      "native": {
+        "common": "Nicaragua",
+        "official": "República de Nicaragua"
+      }
+    },
+    "tld": [
+      ".ni"
+    ],
+    "cca2": "NI",
+    "ccn3": "558",
+    "cca3": "NIC",
+    "currency": [
+      "NIO"
+    ],
+    "callingCode": [
+      "505"
+    ],
+    "capital": "Managua",
+    "altSpellings": [
+      "NI",
+      "Republic of Nicaragua",
+      "República de Nicaragua"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Central America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Nicaragua",
+      "fra": "Nicaragua",
+      "hrv": "Nikaragva",
+      "ita": "Nicaragua",
+      "jpn": "ニカラグア",
+      "nld": "Nicaragua",
+      "rus": "Никарагуа",
+      "spa": "Nicaragua"
+    },
+    "latlng": [
+      13,
+      -85
+    ],
+    "demonym": "Nicaraguan",
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "area": 130373
+  },
+  {
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama",
+      "native": {
+        "common": "Panamá",
+        "official": "República de Panamá"
+      }
+    },
+    "tld": [
+      ".pa"
+    ],
+    "cca2": "PA",
+    "ccn3": "591",
+    "cca3": "PAN",
+    "currency": [
+      "PAB",
+      "USD"
+    ],
+    "callingCode": [
+      "507"
+    ],
+    "capital": "Panama City",
+    "altSpellings": [
+      "PA",
+      "Republic of Panama",
+      "República de Panamá"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Central America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Panama",
+      "fra": "Panama",
+      "hrv": "Panama",
+      "ita": "Panama",
+      "jpn": "パナマ",
+      "nld": "Panama",
+      "rus": "Панама",
+      "spa": "Panamá"
+    },
+    "latlng": [
+      9,
+      -80
+    ],
+    "demonym": "Panamanian",
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "area": 75417
+  },
+  {
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay",
+      "native": {
+        "common": "Paraguay",
+        "official": "República de Paraguay"
+      }
+    },
+    "tld": [
+      ".py"
+    ],
+    "cca2": "PY",
+    "ccn3": "600",
+    "cca3": "PRY",
+    "currency": [
+      "PYG"
+    ],
+    "callingCode": [
+      "595"
+    ],
+    "capital": "Asunción",
+    "altSpellings": [
+      "PY",
+      "Republic of Paraguay",
+      "República del Paraguay",
+      "Tetã Paraguái"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Paraguay",
+      "fra": "Paraguay",
+      "hrv": "Paragvaj",
+      "ita": "Paraguay",
+      "jpn": "パラグアイ",
+      "nld": "Paraguay",
+      "rus": "Парагвай",
+      "spa": "Paraguay"
+    },
+    "latlng": [
+      -23,
+      -58
+    ],
+    "demonym": "Paraguayan",
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "area": 406752
+  },
+  {
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru",
+      "native": {
+        "common": "Perú",
+        "official": "República del Perú"
+      }
+    },
+    "tld": [
+      ".pe"
+    ],
+    "cca2": "PE",
+    "ccn3": "604",
+    "cca3": "PER",
+    "currency": [
+      "PEN"
+    ],
+    "callingCode": [
+      "51"
+    ],
+    "capital": "Lima",
+    "altSpellings": [
+      "PE",
+      "Republic of Peru",
+      " República del Perú"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Peru",
+      "fra": "Pérou",
+      "hrv": "Peru",
+      "ita": "Perù",
+      "jpn": "ペルー",
+      "nld": "Peru",
+      "rus": "Перу",
+      "spa": "Perú"
+    },
+    "latlng": [
+      -10,
+      -76
+    ],
+    "demonym": "Peruvian",
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "area": 1285216
+  },
+  {
+    "name": {
+      "common": "Puerto Rico",
+      "official": "Commonwealth of Puerto Rico",
+      "native": {
+        "common": "Puerto Rico",
+        "official": "Estado Libre Asociado de Puerto Rico"
+      }
+    },
+    "tld": [
+      ".pr"
+    ],
+    "cca2": "PR",
+    "ccn3": "630",
+    "cca3": "PRI",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "1787",
+      "1939"
+    ],
+    "capital": "San Juan",
+    "altSpellings": [
+      "PR",
+      "Commonwealth of Puerto Rico",
+      "Estado Libre Asociado de Puerto Rico"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "spa",
+    "languages": {
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Puerto Rico",
+      "fra": "Porto Rico",
+      "hrv": "Portoriko",
+      "ita": "Porto Rico",
+      "jpn": "プエルトリコ",
+      "nld": "Puerto Rico",
+      "rus": "Пуэрто-Рико",
+      "spa": "Puerto Rico"
+    },
+    "latlng": [
+      18.25,
+      -66.5
+    ],
+    "demonym": "Puerto Rican",
+    "borders": [],
+    "area": 8870
+  },
+  {
+    "name": {
+      "common": "Saint Barthélemy",
+      "official": "Collectivity of Saint BarthélemySaint Barthélemy",
+      "native": {
+        "common": "Saint-Barthélemy",
+        "official": "Collectivité de Saint Barthélemy BarthélemySaint"
+      }
+    },
+    "tld": [
+      ".bl"
+    ],
+    "cca2": "BL",
+    "ccn3": "652",
+    "cca3": "BLM",
+    "currency": [
+      "EUR"
+    ],
+    "callingCode": [
+      "590"
+    ],
+    "capital": "Gustavia",
+    "altSpellings": [
+      "BL",
+      "St. Barthelemy",
+      "Collectivity of Saint Barthélemy",
+      "Collectivité de Saint-Barthélemy"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Saint-Barthélemy",
+      "fra": "Saint-Barthélemy",
+      "hrv": "Saint Barthélemy",
+      "ita": "Antille Francesi",
+      "jpn": "サン・バルテルミー",
+      "nld": "Saint Barthélemy",
+      "rus": "Сен-Бартелеми",
+      "spa": "San Bartolomé"
+    },
+    "latlng": [
+      18.5,
+      -63.41666666
+    ],
+    "demonym": "Saint Barthélemy Islander",
+    "borders": [],
+    "area": 21
+  },
+  {
+    "name": {
+      "common": "Saint Kitts and Nevis",
+      "official": "Federation of Saint Christopher and Nevisa",
+      "native": {
+        "common": "Saint Kitts and Nevis",
+        "official": "Federation of Saint Christopher and Nevisa"
+      }
+    },
+    "tld": [
+      ".kn"
+    ],
+    "cca2": "KN",
+    "ccn3": "659",
+    "cca3": "KNA",
+    "currency": [
+      "XCD"
+    ],
+    "callingCode": [
+      "1869"
+    ],
+    "capital": "Basseterre",
+    "altSpellings": [
+      "KN",
+      "Federation of Saint Christopher and Nevis"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Saint Christopher und Nevis",
+      "fra": "Saint-Christophe-et-Niévès",
+      "hrv": "Sveti Kristof i Nevis",
+      "ita": "Saint Kitts e Nevis",
+      "jpn": "セントクリストファー・ネイビス",
+      "nld": "Saint Kitts en Nevis",
+      "rus": "Сент-Китс и Невис",
+      "spa": "San Cristóbal y Nieves"
+    },
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "demonym": "Kittitian or Nevisian",
+    "borders": [],
+    "area": 261
+  },
+  {
+    "name": {
+      "common": "Saint Lucia",
+      "official": "Saint Lucia",
+      "native": {
+        "common": "Saint Lucia",
+        "official": "Saint Lucia"
+      }
+    },
+    "tld": [
+      ".lc"
+    ],
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "currency": [
+      "XCD"
+    ],
+    "callingCode": [
+      "1758"
+    ],
+    "capital": "Castries",
+    "altSpellings": [
+      "LC"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Saint Lucia",
+      "fra": "Saint-Lucie",
+      "hrv": "Sveta Lucija",
+      "ita": "Santa Lucia",
+      "jpn": "セントルシア",
+      "nld": "Saint Lucia",
+      "rus": "Сент-Люсия",
+      "spa": "Santa Lucía"
+    },
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "demonym": "Saint Lucian",
+    "borders": [],
+    "area": 616
+  },
+  {
+    "name": {
+      "common": "Saint Martin",
+      "official": "Saint Pierre and Miquelon",
+      "native": {
+        "common": "Saint-Martin",
+        "official": "Saint-Pierre-et-Miquelon"
+      }
+    },
+    "tld": [
+      ".fr",
+      ".gp"
+    ],
+    "cca2": "MF",
+    "ccn3": "663",
+    "cca3": "MAF",
+    "currency": [
+      "EUR"
+    ],
+    "callingCode": [
+      "590"
+    ],
+    "capital": "Marigot",
+    "altSpellings": [
+      "MF",
+      "Collectivity of Saint Martin",
+      "Collectivité de Saint-Martin"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Saint Martin",
+      "fra": "Saint-Martin",
+      "hrv": "Sveti Martin",
+      "ita": "Saint Martin",
+      "jpn": "サン・マルタン（フランス領）",
+      "nld": "Saint-Martin",
+      "rus": "Сен-Мартен",
+      "spa": "Saint Martin"
+    },
+    "latlng": [
+      18.08333333,
+      -63.95
+    ],
+    "demonym": "Saint Martin Islander",
+    "borders": [
+      "SXM"
+    ],
+    "area": 53
+  },
+  {
+    "name": {
+      "common": "Saint Pierre and Miquelon",
+      "official": "Saint-Pierre-et-Miquelon",
+      "native": {
+        "common": "Saint-Pierre-et-Miquelon",
+        "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+      }
+    },
+    "tld": [
+      ".pm"
+    ],
+    "cca2": "PM",
+    "ccn3": "666",
+    "cca3": "SPM",
+    "currency": [
+      "EUR"
+    ],
+    "callingCode": [
+      "508"
+    ],
+    "capital": "Saint-Pierre",
+    "altSpellings": [
+      "PM",
+      "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Saint-Pierre und Miquelon",
+      "fra": "Saint-Pierre-et-Miquelon",
+      "hrv": "Sveti Petar i Mikelon",
+      "ita": "Saint-Pierre e Miquelon",
+      "jpn": "サンピエール島・ミクロン島",
+      "nld": "Saint Pierre en Miquelon",
+      "rus": "Сен-Пьер и Микелон",
+      "spa": "San Pedro y Miquelón"
+    },
+    "latlng": [
+      46.83333333,
+      -56.33333333
+    ],
+    "demonym": "French",
+    "borders": [],
+    "area": 242
+  },
+  {
+    "name": {
+      "common": "Saint Vincent and the Grenadines",
+      "official": "Saint Vincent and the Grenadines",
+      "native": {
+        "common": "Saint Vincent and the Grenadines",
+        "official": "Saint Vincent and the Grenadines"
+      }
+    },
+    "tld": [
+      ".vc"
+    ],
+    "cca2": "VC",
+    "ccn3": "670",
+    "cca3": "VCT",
+    "currency": [
+      "XCD"
+    ],
+    "callingCode": [
+      "1784"
+    ],
+    "capital": "Kingstown",
+    "altSpellings": [
+      "VC"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Saint Vincent und die Grenadinen",
+      "fra": "Saint-Vincent-et-les-Grenadines",
+      "hrv": "Sveti Vincent i Grenadini",
+      "ita": "Saint Vincent e Grenadine",
+      "jpn": "セントビンセントおよびグレナディーン諸島",
+      "nld": "Saint Vincent en de Grenadines",
+      "rus": "Сент-Винсент и Гренадины",
+      "spa": "San Vicente y Granadinas"
+    },
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "demonym": "Saint Vincentian",
+    "borders": [],
+    "area": 389
+  },
+  {
+    "name": {
+      "common": "Sint Maarten",
+      "official": "Sint Maarten",
+      "native": {
+        "common": "Sint Maarten",
+        "official": "Sint Maarten"
+      }
+    },
+    "tld": [
+      ".sx"
+    ],
+    "cca2": "SX",
+    "ccn3": "534",
+    "cca3": "SXM",
+    "currency": [
+      "ANG"
+    ],
+    "callingCode": [
+      "1721"
+    ],
+    "capital": "Philipsburg",
+    "altSpellings": [
+      "SX"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "nld",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "translations": {
+      "deu": "Sint Maarten",
+      "fra": "Saint-Martin",
+      "ita": "Sint Maarten",
+      "jpn": "シント・マールテン",
+      "nld": "Sint Maarten",
+      "rus": "Синт-Мартен",
+      "spa": "Sint Maarten"
+    },
+    "latlng": [
+      18.033333,
+      -63.05
+    ],
+    "demonym": "St. Maartener",
+    "borders": [
+      "MAF"
+    ],
+    "area": 34
+  },
+  {
+    "name": {
+      "common": "South Georgia",
+      "official": "South Georgia and the South Sandwich Islands",
+      "native": {
+        "common": "South Georgia",
+        "official": "South Georgia and the South Sandwich Islands"
+      }
+    },
+    "tld": [
+      ".gs"
+    ],
+    "cca2": "GS",
+    "ccn3": "239",
+    "cca3": "SGS",
+    "currency": [
+      "GBP"
+    ],
+    "callingCode": [
+      "500"
+    ],
+    "capital": "King Edward Point",
+    "altSpellings": [
+      "GS",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Südgeorgien und die Südlichen Sandwichinseln",
+      "fra": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+      "hrv": "Južna Georgija i otočje Južni Sandwich",
+      "ita": "Georgia del Sud e Isole Sandwich Meridionali",
+      "jpn": "サウスジョージア・サウスサンドウィッチ諸島",
+      "nld": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
+      "rus": "Южная Георгия и Южные Сандвичевы острова",
+      "spa": "Islas Georgias del Sur y Sandwich del Sur"
+    },
+    "latlng": [
+      -54.5,
+      -37
+    ],
+    "demonym": "South Georgian South Sandwich Islander",
+    "borders": [],
+    "area": 3903
+  },
+  {
+    "name": {
+      "common": "Suriname",
+      "official": "Republic of Suriname",
+      "native": {
+        "common": "Suriname",
+        "official": "Republiek Suriname"
+      }
+    },
+    "tld": [
+      ".sr"
+    ],
+    "cca2": "SR",
+    "ccn3": "740",
+    "cca3": "SUR",
+    "currency": [
+      "SRD"
+    ],
+    "callingCode": [
+      "597"
+    ],
+    "capital": "Paramaribo",
+    "altSpellings": [
+      "SR",
+      "Sarnam",
+      "Sranangron",
+      "Republic of Suriname",
+      "Republiek Suriname"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "nld",
+    "languages": {
+      "nld": "Dutch"
+    },
+    "translations": {
+      "deu": "Suriname",
+      "fra": "Surinam",
+      "hrv": "Surinam",
+      "ita": "Suriname",
+      "jpn": "スリナム",
+      "nld": "Suriname",
+      "rus": "Суринам",
+      "spa": "Surinam"
+    },
+    "latlng": [
+      4,
+      -56
+    ],
+    "demonym": "Surinamer",
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "area": 163820
+  },
+  {
+    "name": {
+      "common": "Trinidad and Tobago",
+      "official": "Republic of Trinidad and Tobago",
+      "native": {
+        "common": "Trinidad and Tobago",
+        "official": "Republic of Trinidad and Tobago"
+      }
+    },
+    "tld": [
+      ".tt"
+    ],
+    "cca2": "TT",
+    "ccn3": "780",
+    "cca3": "TTO",
+    "currency": [
+      "TTD"
+    ],
+    "callingCode": [
+      "1868"
+    ],
+    "capital": "Port of Spain",
+    "altSpellings": [
+      "TT",
+      "Republic of Trinidad and Tobago"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Trinidad und Tobago",
+      "fra": "Trinité et Tobago",
+      "hrv": "Trinidad i Tobago",
+      "ita": "Trinidad e Tobago",
+      "jpn": "トリニダード・トバゴ",
+      "nld": "Trinidad en Tobago",
+      "rus": "Тринидад и Тобаго",
+      "spa": "Trinidad y Tobago"
+    },
+    "latlng": [
+      11,
+      -61
+    ],
+    "demonym": "Trinidadian",
+    "borders": [],
+    "area": 5130
+  },
+  {
+    "name": {
+      "common": "Turks and Caicos Islands",
+      "official": "Turks and Caicos Islands",
+      "native": {
+        "common": "Turks and Caicos Islands",
+        "official": "Turks and Caicos Islands"
+      }
+    },
+    "tld": [
+      ".tc"
+    ],
+    "cca2": "TC",
+    "ccn3": "796",
+    "cca3": "TCA",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "1649"
+    ],
+    "capital": "Cockburn Town",
+    "altSpellings": [
+      "TC"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Turks- und Caicosinseln",
+      "fra": "Îles Turques-et-Caïques",
+      "hrv": "Otoci Turks i Caicos",
+      "ita": "Isole Turks e Caicos",
+      "jpn": "タークス・カイコス諸島",
+      "nld": "Turks- en Caicoseilanden",
+      "rus": "Теркс и Кайкос",
+      "spa": "Islas Turks y Caicos"
+    },
+    "latlng": [
+      21.75,
+      -71.58333333
+    ],
+    "demonym": "Turks and Caicos Islander",
+    "borders": [],
+    "area": 948
+  },
+  {
+    "name": {
+      "common": "United States",
+      "official": "United States of America",
+      "native": {
+        "common": "United States",
+        "official": "United States of America"
+      }
+    },
+    "tld": [
+      ".us"
+    ],
+    "cca2": "US",
+    "ccn3": "840",
+    "cca3": "USA",
+    "currency": [
+      "USD",
+      "USN",
+      "USS"
+    ],
+    "callingCode": [
+      "1"
+    ],
+    "capital": "Washington D.C.",
+    "altSpellings": [
+      "US",
+      "USA",
+      "United States of America"
+    ],
+    "relevance": "3.5",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Vereinigte Staaten von Amerika",
+      "fra": "États-Unis",
+      "hrv": "Sjedinjene Američke Države",
+      "ita": "Stati Uniti D'America",
+      "jpn": "アメリカ合衆国",
+      "nld": "Verenigde Staten",
+      "rus": "Соединённые Штаты Америки",
+      "spa": "Estados Unidos"
+    },
+    "latlng": [
+      38,
+      -97
+    ],
+    "demonym": "American",
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "area": 9372610
+  },
+  {
+    "name": {
+      "common": "United States Minor Outlying Islands",
+      "official": "United States Minor Outlying Islands",
+      "native": {
+        "common": "United States Minor Outlying Islands",
+        "official": "United States Minor Outlying Islands"
+      }
+    },
+    "tld": [
+      ".us"
+    ],
+    "cca2": "UM",
+    "ccn3": "581",
+    "cca3": "UMI",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [],
+    "capital": "",
+    "altSpellings": [
+      "UM"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+      "fra": "Îles mineures éloignées des États-Unis",
+      "hrv": "Mali udaljeni otoci SAD-a",
+      "ita": "Isole minori esterne degli Stati Uniti d'America",
+      "jpn": "合衆国領有小離島",
+      "nld": "Kleine afgelegen eilanden van de Verenigde Staten",
+      "rus": "Внешние малые острова США",
+      "spa": "Islas Ultramarinas Menores de Estados Unidos"
+    },
+    "latlng": [],
+    "demonym": "American",
+    "borders": [],
+    "area": 34.2
+  },
+  {
+    "name": {
+      "common": "United States Virgin Islands",
+      "official": "Virgin Islands of the United States",
+      "native": {
+        "common": "United States Virgin Islands",
+        "official": "Virgin Islands of the United States"
+      }
+    },
+    "tld": [
+      ".vi"
+    ],
+    "cca2": "VI",
+    "ccn3": "850",
+    "cca3": "VIR",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "1340"
+    ],
+    "capital": "Charlotte Amalie",
+    "altSpellings": [
+      "VI"
+    ],
+    "relevance": "0.5",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Amerikanische Jungferninseln",
+      "fra": "Îles Vierges des États-Unis",
+      "hrv": "Američki Djevičanski Otoci",
+      "ita": "Isole Vergini americane",
+      "jpn": "アメリカ領ヴァージン諸島",
+      "nld": "Amerikaanse Maagdeneilanden",
+      "rus": "Виргинские Острова",
+      "spa": "Islas Vírgenes de los Estados Unidos"
+    },
+    "latlng": [
+      18.35,
+      -64.933333
+    ],
+    "demonym": "Virgin Islander",
+    "borders": [],
+    "area": 347
+  },
+  {
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay",
+      "native": {
+        "common": "Uruguay",
+        "official": "República Oriental del Uruguay"
+      }
+    },
+    "tld": [
+      ".uy"
+    ],
+    "cca2": "UY",
+    "ccn3": "858",
+    "cca3": "URY",
+    "currency": [
+      "UYI",
+      "UYU"
+    ],
+    "callingCode": [
+      "598"
+    ],
+    "capital": "Montevideo",
+    "altSpellings": [
+      "UY",
+      "Oriental Republic of Uruguay",
+      "República Oriental del Uruguay"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Uruguay",
+      "fra": "Uruguay",
+      "hrv": "Urugvaj",
+      "ita": "Uruguay",
+      "jpn": "ウルグアイ",
+      "nld": "Uruguay",
+      "rus": "Уругвай",
+      "spa": "Uruguay"
+    },
+    "latlng": [
+      -33,
+      -56
+    ],
+    "demonym": "Uruguayan",
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "area": 181034
+  },
+  {
+    "name": {
+      "common": "Venezuela",
+      "official": "Bolivarian Republic of Venezuela",
+      "native": {
+        "common": "Venezuela",
+        "official": "República Bolivariana de Venezuela"
+      }
+    },
+    "tld": [
+      ".ve"
+    ],
+    "cca2": "VE",
+    "ccn3": "862",
+    "cca3": "VEN",
+    "currency": [
+      "VEF"
+    ],
+    "callingCode": [
+      "58"
+    ],
+    "capital": "Caracas",
+    "altSpellings": [
+      "VE",
+      "Bolivarian Republic of Venezuela",
+      "República Bolivariana de Venezuela"
+    ],
+    "relevance": "0",
+    "region": "Americas",
+    "subregion": "South America",
+    "nativeLanguage": "spa",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Venezuela",
+      "fra": "Venezuela",
+      "hrv": "Venezuela",
+      "ita": "Venezuela",
+      "jpn": "ベネズエラ・ボリバル共和国",
+      "nld": "Venezuela",
+      "rus": "Венесуэла",
+      "spa": "Venezuela"
+    },
+    "latlng": [
+      8,
+      -66
+    ],
+    "demonym": "Venezuelan",
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "area": 916445
+  }
+]

@@ -1,0 +1,1424 @@
+[
+  {
+    "name": {
+      "common": "American Samoa",
+      "official": "American Samoa",
+      "native": {
+        "common": "American Samoa",
+        "official": "American Samoa"
+      }
+    },
+    "tld": [
+      ".as"
+    ],
+    "cca2": "AS",
+    "ccn3": "016",
+    "cca3": "ASM",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "1684"
+    ],
+    "capital": "Pago Pago",
+    "altSpellings": [
+      "AS",
+      "Amerika Sāmoa",
+      "Amelika Sāmoa",
+      "Sāmoa Amelika"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "translations": {
+      "deu": "Amerikanisch-Samoa",
+      "fra": "Samoa américaines",
+      "hrv": "Američka Samoa",
+      "ita": "Samoa Americane",
+      "jpn": "アメリカ領サモア",
+      "nld": "Amerikaans Samoa",
+      "rus": "Американское Самоа",
+      "spa": "Samoa Americana"
+    },
+    "latlng": [
+      -14.33333333,
+      -170
+    ],
+    "demonym": "American Samoan",
+    "borders": [],
+    "area": 199
+  },
+  {
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia",
+      "native": {
+        "common": "Australia",
+        "official": "Commonwealth of Australia"
+      }
+    },
+    "tld": [
+      ".au"
+    ],
+    "cca2": "AU",
+    "ccn3": "036",
+    "cca3": "AUS",
+    "currency": [
+      "AUD"
+    ],
+    "callingCode": [
+      "61"
+    ],
+    "capital": "Canberra",
+    "altSpellings": [
+      "AU"
+    ],
+    "relevance": "1.5",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Awstralia",
+      "deu": "Australien",
+      "fra": "Australie",
+      "hrv": "Australija",
+      "ita": "Australia",
+      "jpn": "オーストラリア",
+      "nld": "Australië",
+      "rus": "Австралия",
+      "spa": "Australia"
+    },
+    "latlng": [
+      -27,
+      133
+    ],
+    "demonym": "Australian",
+    "borders": [],
+    "area": 7692024
+  },
+  {
+    "name": {
+      "common": "Christmas Island",
+      "official": "Territory of Christmas Island",
+      "native": {
+        "common": "Christmas Island",
+        "official": "Territory of Christmas Island"
+      }
+    },
+    "tld": [
+      ".cx"
+    ],
+    "cca2": "CX",
+    "ccn3": "162",
+    "cca3": "CXR",
+    "currency": [
+      "AUD"
+    ],
+    "callingCode": [
+      "61"
+    ],
+    "capital": "Flying Fish Cove",
+    "altSpellings": [
+      "CX",
+      "Territory of Christmas Island"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Ynys y Nadolig",
+      "deu": "Weihnachtsinsel",
+      "fra": "Île Christmas",
+      "hrv": "Božićni otok",
+      "ita": "Isola di Natale",
+      "jpn": "クリスマス島",
+      "nld": "Christmaseiland",
+      "rus": "Остров Рождества",
+      "spa": "Isla de Navidad"
+    },
+    "latlng": [
+      -10.5,
+      105.66666666
+    ],
+    "demonym": "Christmas Island",
+    "borders": [],
+    "area": 135
+  },
+  {
+    "name": {
+      "common": "Cocos (Keeling) Islands",
+      "official": "Territory of the Cocos (Keeling) Islands",
+      "native": {
+        "common": "Cocos (Keeling) Islands",
+        "official": "Territory of the Cocos (Keeling) Islands"
+      }
+    },
+    "tld": [
+      ".cc"
+    ],
+    "cca2": "CC",
+    "ccn3": "166",
+    "cca3": "CCK",
+    "currency": [
+      "AUD"
+    ],
+    "callingCode": [
+      "61"
+    ],
+    "capital": "West Island",
+    "altSpellings": [
+      "CC",
+      "Territory of the Cocos (Keeling) Islands",
+      "Keeling Islands"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "cym": "Ynysoedd Cocos",
+      "deu": "Kokosinseln",
+      "fra": "Îles Cocos",
+      "hrv": "Kokosovi Otoci",
+      "ita": "Isole Cocos e Keeling",
+      "jpn": "ココス（キーリング）諸島",
+      "nld": "Cocoseilanden",
+      "rus": "Кокосовые острова",
+      "spa": "Islas Cocos o Islas Keeling"
+    },
+    "latlng": [
+      -12.5,
+      96.83333333
+    ],
+    "demonym": "Cocos Islander",
+    "borders": [],
+    "area": 14
+  },
+  {
+    "name": {
+      "common": "Cook Islands",
+      "official": "Cook Islands",
+      "native": {
+        "common": "Cook Islands",
+        "official": "Cook Islands"
+      }
+    },
+    "tld": [
+      ".ck"
+    ],
+    "cca2": "CK",
+    "ccn3": "184",
+    "cca3": "COK",
+    "currency": [
+      "NZD"
+    ],
+    "callingCode": [
+      "682"
+    ],
+    "capital": "Avarua",
+    "altSpellings": [
+      "CK",
+      "Kūki 'Āirani"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "rar": "Cook Islands Māori"
+    },
+    "translations": {
+      "cym": "Ynysoedd Cook",
+      "deu": "Cookinseln",
+      "fra": "Îles Cook",
+      "hrv": "Cookovo Otočje",
+      "ita": "Isole Cook",
+      "jpn": "クック諸島",
+      "nld": "Cookeilanden",
+      "rus": "Острова Кука",
+      "spa": "Islas Cook"
+    },
+    "latlng": [
+      -21.23333333,
+      -159.76666666
+    ],
+    "demonym": "Cook Islander",
+    "borders": [],
+    "area": 236
+  },
+  {
+    "name": {
+      "common": "Fiji",
+      "official": "Republic of Fiji",
+      "native": {
+        "common": "Fiji",
+        "official": "Republic of Fiji"
+      }
+    },
+    "tld": [
+      ".fj"
+    ],
+    "cca2": "FJ",
+    "ccn3": "242",
+    "cca3": "FJI",
+    "currency": [
+      "FJD"
+    ],
+    "callingCode": [
+      "679"
+    ],
+    "capital": "Suva",
+    "altSpellings": [
+      "FJ",
+      "Viti",
+      "Republic of Fiji",
+      "Matanitu ko Viti",
+      "Fijī Gaṇarājya"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    },
+    "translations": {
+      "deu": "Fidschi",
+      "fra": "Fidji",
+      "hrv": "Fiđi",
+      "ita": "Figi",
+      "jpn": "フィジー",
+      "nld": "Fiji",
+      "rus": "Фиджи",
+      "spa": "Fiyi"
+    },
+    "latlng": [
+      -18,
+      175
+    ],
+    "demonym": "Fijian",
+    "borders": [],
+    "area": 18272
+  },
+  {
+    "name": {
+      "common": "French Polynesia",
+      "official": "French Polynesia",
+      "native": {
+        "common": "Polynésie française",
+        "official": "Polynésie française"
+      }
+    },
+    "tld": [
+      ".pf"
+    ],
+    "cca2": "PF",
+    "ccn3": "258",
+    "cca3": "PYF",
+    "currency": [
+      "XPF"
+    ],
+    "callingCode": [
+      "689"
+    ],
+    "capital": "Papeetē",
+    "altSpellings": [
+      "PF",
+      "Polynésie française",
+      "French Polynesia",
+      "Pōrīnetia Farāni"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Französisch-Polynesien",
+      "fra": "Polynésie française",
+      "hrv": "Francuska Polinezija",
+      "ita": "Polinesia Francese",
+      "jpn": "フランス領ポリネシア",
+      "nld": "Frans-Polynesië",
+      "rus": "Французская Полинезия",
+      "spa": "Polinesia Francesa"
+    },
+    "latlng": [
+      -15,
+      -140
+    ],
+    "demonym": "French Polynesian",
+    "borders": [],
+    "area": 4167
+  },
+  {
+    "name": {
+      "common": "Guam",
+      "official": "Guam",
+      "native": {
+        "common": "Guam",
+        "official": "Guam"
+      }
+    },
+    "tld": [
+      ".gu"
+    ],
+    "cca2": "GU",
+    "ccn3": "316",
+    "cca3": "GUM",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "1671"
+    ],
+    "capital": "Hagåtña",
+    "altSpellings": [
+      "GU",
+      "Guåhån"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "cha": "Chamorro",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "translations": {
+      "deu": "Guam",
+      "fra": "Guam",
+      "hrv": "Guam",
+      "ita": "Guam",
+      "jpn": "グアム",
+      "nld": "Guam",
+      "rus": "Гуам",
+      "spa": "Guam"
+    },
+    "latlng": [
+      13.46666666,
+      144.78333333
+    ],
+    "demonym": "Guamanian",
+    "borders": [],
+    "area": 549
+  },
+  {
+    "name": {
+      "common": "Kiribati",
+      "official": "Independent and Sovereign Republic of Kiribati",
+      "native": {
+        "common": "Kiribati",
+        "official": "Independent and Sovereign Republic of Kiribati"
+      }
+    },
+    "tld": [
+      ".ki"
+    ],
+    "cca2": "KI",
+    "ccn3": "296",
+    "cca3": "KIR",
+    "currency": [
+      "AUD"
+    ],
+    "callingCode": [
+      "686"
+    ],
+    "capital": "South Tarawa",
+    "altSpellings": [
+      "KI",
+      "Republic of Kiribati",
+      "Ribaberiki Kiribati"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "gil": "Gilbertese"
+    },
+    "translations": {
+      "deu": "Kiribati",
+      "fra": "Kiribati",
+      "hrv": "Kiribati",
+      "ita": "Kiribati",
+      "jpn": "キリバス",
+      "nld": "Kiribati",
+      "rus": "Кирибати",
+      "spa": "Kiribati"
+    },
+    "latlng": [
+      1.41666666,
+      173
+    ],
+    "demonym": "I-Kiribati",
+    "borders": [],
+    "area": 811
+  },
+  {
+    "name": {
+      "common": "Marshall Islands",
+      "official": "Republic of the Marshall Islands",
+      "native": {
+        "common": "M̧ajeļ",
+        "official": "Republic of the Marshall Islands"
+      }
+    },
+    "tld": [
+      ".mh"
+    ],
+    "cca2": "MH",
+    "ccn3": "584",
+    "cca3": "MHL",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "692"
+    ],
+    "capital": "Majuro",
+    "altSpellings": [
+      "MH",
+      "Republic of the Marshall Islands",
+      "Aolepān Aorōkin M̧ajeļ"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "nativeLanguage": "mah",
+    "languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    },
+    "translations": {
+      "deu": "Marshallinseln",
+      "fra": "Îles Marshall",
+      "hrv": "Maršalovi Otoci",
+      "ita": "Isole Marshall",
+      "jpn": "マーシャル諸島",
+      "nld": "Marshalleilanden",
+      "rus": "Маршалловы Острова",
+      "spa": "Islas Marshall"
+    },
+    "latlng": [
+      9,
+      168
+    ],
+    "demonym": "Marshallese",
+    "borders": [],
+    "area": 181
+  },
+  {
+    "name": {
+      "common": "Micronesia",
+      "official": "Federated States of Micronesia",
+      "native": {
+        "common": "Micronesia",
+        "official": "Federated States of Micronesia"
+      }
+    },
+    "tld": [
+      ".fm"
+    ],
+    "cca2": "FM",
+    "ccn3": "583",
+    "cca3": "FSM",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "691"
+    ],
+    "capital": "Palikir",
+    "altSpellings": [
+      "FM",
+      "Federated States of Micronesia"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Mikronesien",
+      "fra": "Micronésie",
+      "hrv": "Mikronezija",
+      "ita": "Micronesia",
+      "jpn": "ミクロネシア連邦",
+      "nld": "Micronesië",
+      "rus": "Федеративные Штаты Микронезии",
+      "spa": "Micronesia"
+    },
+    "latlng": [
+      6.91666666,
+      158.25
+    ],
+    "demonym": "Micronesian",
+    "borders": [],
+    "area": 702
+  },
+  {
+    "name": {
+      "common": "Nauru",
+      "official": "Republic of Nauru",
+      "native": {
+        "common": "Nauru",
+        "official": "Republic of Nauru"
+      }
+    },
+    "tld": [
+      ".nr"
+    ],
+    "cca2": "NR",
+    "ccn3": "520",
+    "cca3": "NRU",
+    "currency": [
+      "AUD"
+    ],
+    "callingCode": [
+      "674"
+    ],
+    "capital": "Yaren",
+    "altSpellings": [
+      "NR",
+      "Naoero",
+      "Pleasant Island",
+      "Republic of Nauru",
+      "Ripublik Naoero"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "nativeLanguage": "nau",
+    "languages": {
+      "eng": "English",
+      "nau": "Nauru"
+    },
+    "translations": {
+      "deu": "Nauru",
+      "fra": "Nauru",
+      "hrv": "Nauru",
+      "ita": "Nauru",
+      "jpn": "ナウル",
+      "nld": "Nauru",
+      "rus": "Науру",
+      "spa": "Nauru"
+    },
+    "latlng": [
+      -0.53333333,
+      166.91666666
+    ],
+    "demonym": "Nauruan",
+    "borders": [],
+    "area": 21
+  },
+  {
+    "name": {
+      "common": "New Caledonia",
+      "official": "New Caledonia",
+      "native": {
+        "common": "Nouvelle-Calédonie",
+        "official": "Nouvelle-Calédonie"
+      }
+    },
+    "tld": [
+      ".nc"
+    ],
+    "cca2": "NC",
+    "ccn3": "540",
+    "cca3": "NCL",
+    "currency": [
+      "XPF"
+    ],
+    "callingCode": [
+      "687"
+    ],
+    "capital": "Nouméa",
+    "altSpellings": [
+      "NC"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Neukaledonien",
+      "fra": "Nouvelle-Calédonie",
+      "hrv": "Nova Kaledonija",
+      "ita": "Nuova Caledonia",
+      "jpn": "ニューカレドニア",
+      "nld": "Nieuw-Caledonië",
+      "rus": "Новая Каледония",
+      "spa": "Nueva Caledonia"
+    },
+    "latlng": [
+      -21.5,
+      165.5
+    ],
+    "demonym": "New Caledonian",
+    "borders": [],
+    "area": 18575
+  },
+  {
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand",
+      "native": {
+        "common": "New Zealand",
+        "official": "New Zealand"
+      }
+    },
+    "tld": [
+      ".nz"
+    ],
+    "cca2": "NZ",
+    "ccn3": "554",
+    "cca3": "NZL",
+    "currency": [
+      "NZD"
+    ],
+    "callingCode": [
+      "64"
+    ],
+    "capital": "Wellington",
+    "altSpellings": [
+      "NZ",
+      "Aotearoa"
+    ],
+    "relevance": "1.0",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "mri": "Māori",
+      "nzs": "New Zealand Sign Language"
+    },
+    "translations": {
+      "deu": "Neuseeland",
+      "fra": "Nouvelle-Zélande",
+      "hrv": "Novi Zeland",
+      "ita": "Nuova Zelanda",
+      "jpn": "ニュージーランド",
+      "nld": "Nieuw-Zeeland",
+      "rus": "Новая Зеландия",
+      "spa": "Nueva Zelanda"
+    },
+    "latlng": [
+      -41,
+      174
+    ],
+    "demonym": "New Zealander",
+    "borders": [],
+    "area": 270467
+  },
+  {
+    "name": {
+      "common": "Niue",
+      "official": "Niue",
+      "native": {
+        "common": "Niuē",
+        "official": "Niuē"
+      }
+    },
+    "tld": [
+      ".nu"
+    ],
+    "cca2": "NU",
+    "ccn3": "570",
+    "cca3": "NIU",
+    "currency": [
+      "NZD"
+    ],
+    "callingCode": [
+      "683"
+    ],
+    "capital": "Alofi",
+    "altSpellings": [
+      "NU"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "niu",
+    "languages": {
+      "eng": "English",
+      "niu": "Niuean"
+    },
+    "translations": {
+      "deu": "Niue",
+      "fra": "Niue",
+      "hrv": "Niue",
+      "ita": "Niue",
+      "jpn": "ニウエ",
+      "nld": "Niue",
+      "rus": "Ниуэ",
+      "spa": "Niue"
+    },
+    "latlng": [
+      -19.03333333,
+      -169.86666666
+    ],
+    "demonym": "Niuean",
+    "borders": [],
+    "area": 260
+  },
+  {
+    "name": {
+      "common": "Norfolk Island",
+      "official": "Territory of Norfolk Island",
+      "native": {
+        "common": "Norfolk Island",
+        "official": "Territory of Norfolk Island"
+      }
+    },
+    "tld": [
+      ".nf"
+    ],
+    "cca2": "NF",
+    "ccn3": "574",
+    "cca3": "NFK",
+    "currency": [
+      "AUD"
+    ],
+    "callingCode": [
+      "672"
+    ],
+    "capital": "Kingston",
+    "altSpellings": [
+      "NF",
+      "Territory of Norfolk Island",
+      "Teratri of Norf'k Ailen"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "pih": "Norfuk"
+    },
+    "translations": {
+      "deu": "Norfolkinsel",
+      "fra": "Île de Norfolk",
+      "hrv": "Otok Norfolk",
+      "ita": "Isola Norfolk",
+      "jpn": "ノーフォーク島",
+      "nld": "Norfolkeiland",
+      "rus": "Норфолк",
+      "spa": "Isla de Norfolk"
+    },
+    "latlng": [
+      -29.03333333,
+      167.95
+    ],
+    "demonym": "Norfolk Islander",
+    "borders": [],
+    "area": 36
+  },
+  {
+    "name": {
+      "common": "Northern Mariana Islands",
+      "official": "Commonwealth of the Northern Mariana Islands",
+      "native": {
+        "common": "Northern Mariana Islands",
+        "official": "Commonwealth of the Northern Mariana Islands"
+      }
+    },
+    "tld": [
+      ".mp"
+    ],
+    "cca2": "MP",
+    "ccn3": "580",
+    "cca3": "MNP",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "1670"
+    ],
+    "capital": "Saipan",
+    "altSpellings": [
+      "MP",
+      "Commonwealth of the Northern Mariana Islands",
+      "Sankattan Siha Na Islas Mariånas"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "cal": "Carolinian",
+      "cha": "Chamorro",
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Nördliche Marianen",
+      "fra": "Îles Mariannes du Nord",
+      "hrv": "Sjevernomarijanski otoci",
+      "ita": "Isole Marianne Settentrionali",
+      "jpn": "北マリアナ諸島",
+      "nld": "Noordelijke Marianeneilanden",
+      "rus": "Северные Марианские острова",
+      "spa": "Islas Marianas del Norte"
+    },
+    "latlng": [
+      15.2,
+      145.75
+    ],
+    "demonym": "American",
+    "borders": [],
+    "area": 464
+  },
+  {
+    "name": {
+      "common": "Palau",
+      "official": "Republic of Palau",
+      "native": {
+        "common": "Palau",
+        "official": "Republic of Palau"
+      }
+    },
+    "tld": [
+      ".pw"
+    ],
+    "cca2": "PW",
+    "ccn3": "585",
+    "cca3": "PLW",
+    "currency": [
+      "USD"
+    ],
+    "callingCode": [
+      "680"
+    ],
+    "capital": "Ngerulmud",
+    "altSpellings": [
+      "PW",
+      "Republic of Palau",
+      "Beluu er a Belau"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    },
+    "translations": {
+      "deu": "Palau",
+      "fra": "Palaos",
+      "hrv": "Palau",
+      "ita": "Palau",
+      "jpn": "パラオ",
+      "nld": "Palau",
+      "rus": "Палау",
+      "spa": "Palau"
+    },
+    "latlng": [
+      7.5,
+      134.5
+    ],
+    "demonym": "Palauan",
+    "borders": [],
+    "area": 459
+  },
+  {
+    "name": {
+      "common": "Papua New Guinea",
+      "official": "Independent State of Papua New Guinea",
+      "native": {
+        "common": "Papua Niugini",
+        "official": "Independent State of Papua New Guinea"
+      }
+    },
+    "tld": [
+      ".pg"
+    ],
+    "cca2": "PG",
+    "ccn3": "598",
+    "cca3": "PNG",
+    "currency": [
+      "PGK"
+    ],
+    "callingCode": [
+      "675"
+    ],
+    "capital": "Port Moresby",
+    "altSpellings": [
+      "PG",
+      "Independent State of Papua New Guinea",
+      "Independen Stet bilong Papua Niugini"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "nativeLanguage": "hmo",
+    "languages": {
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
+    },
+    "translations": {
+      "deu": "Papua-Neuguinea",
+      "fra": "Papouasie-Nouvelle-Guinée",
+      "hrv": "Papua Nova Gvineja",
+      "ita": "Papua Nuova Guinea",
+      "jpn": "パプアニューギニア",
+      "nld": "Papoea-Nieuw-Guinea",
+      "rus": "Папуа — Новая Гвинея",
+      "spa": "Papúa Nueva Guinea"
+    },
+    "latlng": [
+      -6,
+      147
+    ],
+    "demonym": "Papua New Guinean",
+    "borders": [
+      "IDN"
+    ],
+    "area": 462840
+  },
+  {
+    "name": {
+      "common": "Pitcairn Islands",
+      "official": "Pitcairn Group of Islands",
+      "native": {
+        "common": "Pitcairn Islands",
+        "official": "Pitcairn Group of Islands"
+      }
+    },
+    "tld": [
+      ".pn"
+    ],
+    "cca2": "PN",
+    "ccn3": "612",
+    "cca3": "PCN",
+    "currency": [
+      "NZD"
+    ],
+    "callingCode": [
+      "64"
+    ],
+    "capital": "Adamstown",
+    "altSpellings": [
+      "PN",
+      "Pitcairn Henderson Ducie and Oeno Islands"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Pitcairn",
+      "fra": "Îles Pitcairn",
+      "hrv": "Pitcairnovo otočje",
+      "ita": "Isole Pitcairn",
+      "jpn": "ピトケアン",
+      "nld": "Pitcairneilanden",
+      "rus": "Острова Питкэрн",
+      "spa": "Islas Pitcairn"
+    },
+    "latlng": [
+      -25.06666666,
+      -130.1
+    ],
+    "demonym": "Pitcairn Islander",
+    "borders": [],
+    "area": 47
+  },
+  {
+    "name": {
+      "common": "Samoa",
+      "official": "Independent State of Samoa",
+      "native": {
+        "common": "Sāmoa",
+        "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+      }
+    },
+    "tld": [
+      ".ws"
+    ],
+    "cca2": "WS",
+    "ccn3": "882",
+    "cca3": "WSM",
+    "currency": [
+      "WST"
+    ],
+    "callingCode": [
+      "685"
+    ],
+    "capital": "Apia",
+    "altSpellings": [
+      "WS",
+      "Independent State of Samoa",
+      "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "smo",
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "translations": {
+      "deu": "Samoa",
+      "fra": "Samoa",
+      "hrv": "Samoa",
+      "ita": "Samoa",
+      "jpn": "サモア",
+      "nld": "Samoa",
+      "rus": "Самоа",
+      "spa": "Samoa"
+    },
+    "latlng": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "demonym": "Samoan",
+    "borders": [],
+    "area": 2842
+  },
+  {
+    "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands",
+      "native": {
+        "common": "Solomon Islands",
+        "official": "Solomon Islands"
+      }
+    },
+    "tld": [
+      ".sb"
+    ],
+    "cca2": "SB",
+    "ccn3": "090",
+    "cca3": "SLB",
+    "currency": [
+      "SDB"
+    ],
+    "callingCode": [
+      "677"
+    ],
+    "capital": "Honiara",
+    "altSpellings": [
+      "SB"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "nativeLanguage": "eng",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "deu": "Salomonen",
+      "fra": "Îles Salomon",
+      "hrv": "Solomonski Otoci",
+      "ita": "Isole Salomone",
+      "jpn": "ソロモン諸島",
+      "nld": "Salomonseilanden",
+      "rus": "Соломоновы Острова",
+      "spa": "Islas Salomón"
+    },
+    "latlng": [
+      -8,
+      159
+    ],
+    "demonym": "Solomon Islander",
+    "borders": [],
+    "area": 28896
+  },
+  {
+    "name": {
+      "common": "Tokelau",
+      "official": "Tokelau",
+      "native": {
+        "common": "Tokelau",
+        "official": "Tokelau"
+      }
+    },
+    "tld": [
+      ".tk"
+    ],
+    "cca2": "TK",
+    "ccn3": "772",
+    "cca3": "TKL",
+    "currency": [
+      "NZD"
+    ],
+    "callingCode": [
+      "690"
+    ],
+    "capital": "Fakaofo",
+    "altSpellings": [
+      "TK"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "tkl",
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan",
+      "tkl": "Tokelauan"
+    },
+    "translations": {
+      "deu": "Tokelau",
+      "fra": "Tokelau",
+      "hrv": "Tokelau",
+      "ita": "Isole Tokelau",
+      "jpn": "トケラウ",
+      "nld": "Tokelau",
+      "rus": "Токелау",
+      "spa": "Islas Tokelau"
+    },
+    "latlng": [
+      -9,
+      -172
+    ],
+    "demonym": "Tokelauan",
+    "borders": [],
+    "area": 12
+  },
+  {
+    "name": {
+      "common": "Tonga",
+      "official": "Kingdom of Tonga",
+      "native": {
+        "common": "Tonga",
+        "official": "Kingdom of Tonga"
+      }
+    },
+    "tld": [
+      ".to"
+    ],
+    "cca2": "TO",
+    "ccn3": "776",
+    "cca3": "TON",
+    "currency": [
+      "TOP"
+    ],
+    "callingCode": [
+      "676"
+    ],
+    "capital": "Nuku'alofa",
+    "altSpellings": [
+      "TO"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "ton",
+    "languages": {
+      "eng": "English",
+      "ton": "Tongan"
+    },
+    "translations": {
+      "deu": "Tonga",
+      "fra": "Tonga",
+      "hrv": "Tonga",
+      "ita": "Tonga",
+      "jpn": "トンガ",
+      "nld": "Tonga",
+      "rus": "Тонга",
+      "spa": "Tonga"
+    },
+    "latlng": [
+      -20,
+      -175
+    ],
+    "demonym": "Tongan",
+    "borders": [],
+    "area": 747
+  },
+  {
+    "name": {
+      "common": "Tuvalu",
+      "official": "Tuvalu",
+      "native": {
+        "common": "Tuvalu",
+        "official": "Tuvalu"
+      }
+    },
+    "tld": [
+      ".tv"
+    ],
+    "cca2": "TV",
+    "ccn3": "798",
+    "cca3": "TUV",
+    "currency": [
+      "AUD"
+    ],
+    "callingCode": [
+      "688"
+    ],
+    "capital": "Funafuti",
+    "altSpellings": [
+      "TV"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "tvl",
+    "languages": {
+      "eng": "English",
+      "tvl": "Tuvaluan"
+    },
+    "translations": {
+      "deu": "Tuvalu",
+      "fra": "Tuvalu",
+      "hrv": "Tuvalu",
+      "ita": "Tuvalu",
+      "jpn": "ツバル",
+      "nld": "Tuvalu",
+      "rus": "Тувалу",
+      "spa": "Tuvalu"
+    },
+    "latlng": [
+      -8,
+      178
+    ],
+    "demonym": "Tuvaluan",
+    "borders": [],
+    "area": 26
+  },
+  {
+    "name": {
+      "common": "Vanuatu",
+      "official": "Republic of Vanuatu",
+      "native": {
+        "common": "Vanuatu",
+        "official": "Ripablik blong Vanuatu"
+      }
+    },
+    "tld": [
+      ".vu"
+    ],
+    "cca2": "VU",
+    "ccn3": "548",
+    "cca3": "VUT",
+    "currency": [
+      "VUV"
+    ],
+    "callingCode": [
+      "678"
+    ],
+    "capital": "Port Vila",
+    "altSpellings": [
+      "VU",
+      "Republic of Vanuatu",
+      "Ripablik blong Vanuatu",
+      "République de Vanuatu"
+    ],
+    "relevance": "0",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "nativeLanguage": "bis",
+    "languages": {
+      "bis": "Bislama",
+      "eng": "English",
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Vanuatu",
+      "fra": "Vanuatu",
+      "hrv": "Vanuatu",
+      "ita": "Vanuatu",
+      "jpn": "バヌアツ",
+      "nld": "Vanuatu",
+      "rus": "Вануату",
+      "spa": "Vanuatu"
+    },
+    "latlng": [
+      -16,
+      167
+    ],
+    "demonym": "Ni-Vanuatu",
+    "borders": [],
+    "area": 12189
+  },
+  {
+    "name": {
+      "common": "Wallis and Futuna",
+      "official": "Territory of the Wallis and Futuna Islands",
+      "native": {
+        "common": "Wallis et Futuna",
+        "official": "Territoire des îles Wallis et Futuna"
+      }
+    },
+    "tld": [
+      ".wf"
+    ],
+    "cca2": "WF",
+    "ccn3": "876",
+    "cca3": "WLF",
+    "currency": [
+      "XPF"
+    ],
+    "callingCode": [
+      "681"
+    ],
+    "capital": "Mata-Utu",
+    "altSpellings": [
+      "WF",
+      "Territory of the Wallis and Futuna Islands",
+      "Territoire des îles Wallis et Futuna"
+    ],
+    "relevance": "0.5",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "nativeLanguage": "fra",
+    "languages": {
+      "fra": "French"
+    },
+    "translations": {
+      "deu": "Wallis und Futuna",
+      "fra": "Wallis-et-Futuna",
+      "hrv": "Wallis i Fortuna",
+      "ita": "Wallis e Futuna",
+      "jpn": "ウォリス・フツナ",
+      "nld": "Wallis en Futuna",
+      "rus": "Уоллис и Футуна",
+      "spa": "Wallis y Futuna"
+    },
+    "latlng": [
+      -13.3,
+      -176.2
+    ],
+    "demonym": "Wallis and Futuna Islander",
+    "borders": [],
+    "area": 142
+  }
+]
