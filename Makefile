@@ -4,10 +4,6 @@ all: build
 build:
 	coffee --output lib --compile src
 
-oldtest:
-	./bin/groupby examples/countries.json 'examples/regions/{region}.json' \
-		--index
-
 .PHONY: test
 test: build
 	#rm -rf examples/*/*
