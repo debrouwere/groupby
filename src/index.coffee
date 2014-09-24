@@ -17,7 +17,7 @@ slugify = (value, lowercase=no) ->
 # values from an object as context
 fill = (pattern, obj, options) ->
     slugifiedObj = _.object _.compact _.map obj, (value, key) ->
-        if _.contains [Object, Array], value.constructor
+        if _.contains [Object, Array], value?.constructor
             undefined
         else
             [key, (slugify value, options.lowercase)]
@@ -69,8 +69,7 @@ exports.group = (list, grouper, options={}) ->
             #{grouper.constructor.name}"
 
     predicate ?= _.partial fill, pattern, _, options
-
-    groups = _.indexBy list, predicate
+    groups = _.groupBy list, predicate
 
     # similar to _.indexBy, except we make sure to
     # check for uniqueness
@@ -86,8 +85,6 @@ exports.group = (list, grouper, options={}) ->
             a pattern string that produces unique groups."
         groups = _.object _.map groups, (values, key) ->
             [key, values[0]]
-    else
-        groups = _.groupBy list, predicate
     
     _.omit groups, UNCATEGORIZABLE
 

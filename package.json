@@ -1,6 +1,6 @@
 {
   "name": "groupby-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Split up JSON data into multiple files based on shared characteristics.",
   "main": "lib/index.js",
   "scripts": {
