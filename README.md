@@ -1,6 +1,6 @@
 # groupby
 
-[![Build Status](https://travis-ci.org/stdbrouw/groupby.svg)](https://travis-ci.org/stdbrouw/groupby)
+[![Build Status](https://travis-ci.org/debrouwere/groupby.svg)](https://travis-ci.org/debrouwere/groupby)
 
 Split up JSON data into multiple files based on shared characteristics. Groupby is a command-line utility but can also be used from [node.js](http://nodejs.org/).
 
