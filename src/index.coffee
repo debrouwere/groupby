@@ -17,7 +17,9 @@ slugify = (value, lowercase=no) ->
 # values from an object as context
 fill = (pattern, obj, options) ->
     slugifiedObj = _.object _.compact _.map obj, (value, key) ->
-        if _.contains [Object, Array], value?.constructor
+        if not value?
+            undefined
+        else if _.contains [Object, Array], value.constructor
             undefined
         else
             [key, (slugify value, options.lowercase)]

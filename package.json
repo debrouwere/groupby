@@ -1,6 +1,6 @@
 {
   "name": "groupby-cli",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Split up JSON data into multiple files based on shared characteristics.",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stdbrouw/groupby.git"
+    "url": "https://github.com/debrouwere/groupby.git"
   },
   "keywords": [
     "json",
@@ -19,12 +19,16 @@
     "data",
     "etl"
   ],
-  "author": "Stijn Debrouwere",
+  "author": {
+    "name": "Stijn Debrouwere",
+    "email": "stijn@debrouwere.org", 
+    "url": "http://debrouwere.org"
+  }, 
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stdbrouw/groupby/issues"
+    "url": "https://github.com/debrouwere/groupby/issues"
   },
-  "homepage": "https://github.com/stdbrouw/groupby",
+  "homepage": "https://github.com/debrouwere/groupby",
   "dependencies": {
     "commander": "2.1.x",
     "mkdirp": "^0.5.0",
