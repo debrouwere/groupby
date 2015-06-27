@@ -1,6 +1,6 @@
 {
   "name": "groupby-cli",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Split up JSON data into multiple files based on shared characteristics.",
   "main": "lib/index.js",
   "scripts": {
@@ -30,14 +30,14 @@
   },
   "homepage": "https://github.com/debrouwere/groupby",
   "dependencies": {
-    "commander": "2.1.x",
+    "commander": "2.8.x",
     "mkdirp": "^0.5.0",
-    "simple-path-expressions": "^1.0.0-rc4",
+    "simple-path-expressions": "^1.1.2",
     "slug": "^0.6.0",
-    "underscore": "^1.7.0"
+    "underscore": "^1.9.0"
   },
   "devDependencies": {
-    "coffee-script": "^1.8.0",
+    "coffee-script": "^1.9.0",
     "mocha": "^1.21.4",
     "should": "^4.0.4"
   }
